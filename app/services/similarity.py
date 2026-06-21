@@ -1,8 +1,15 @@
 from sentence_transformers import SentenceTransformer, util
+from app.config import EMBEDDING_MODEL_NAME
 from app.utils.preprocessing import preprocess
 
-# Load model once (VERY IMPORTANT)
-model = SentenceTransformer('all-MiniLM-L6-v2')
+# This service supports any Sentence Transformer checkpoint provided by
+# EMBEDDING_MODEL_NAME. The default is now all-MiniLM-L12-v2 for stronger
+# prototype accuracy without sacrificing CPU-friendly performance.
+# Alternatives for further experiments include:
+# - all-mpnet-base-v2
+# - GiacomoSignorile/PatentBert-FineTuned
+# - other patent-specialised SentenceTransformers checkpoints
+model = SentenceTransformer(EMBEDDING_MODEL_NAME)
 
 def compute_similarity(user_input, patent):
     user_input = preprocess(user_input)

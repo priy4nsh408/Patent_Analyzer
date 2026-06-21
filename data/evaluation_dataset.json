@@ -1,0 +1,3502 @@
+[
+  {
+    "idea": "A wearable device that detects alcohol in breath and blocks engine ignition",
+    "patent_title": "Smart Helmet with Ignition Control",
+    "patent_abstract": "Detects alcohol and prevents ignition",
+    "patent_claims": "Alcohol sensor + ignition lock",
+    "true_risk": "High"
+  },
+  {
+    "idea": "A drone navigation system that adjusts route based on weather patterns",
+    "patent_title": "Autonomous Drone Flight Controller",
+    "patent_abstract": "Controls drone path using GPS and obstacle detection",
+    "patent_claims": "GPS-based route planning and collision avoidance",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A smart thermostat that learns homeowner temperature preferences",
+    "patent_title": "Energy Efficient Climate Control System",
+    "patent_abstract": "Adaptive heating and cooling using sensors",
+    "patent_claims": "Machine learning temperature predictions",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A financial app that predicts spending based on calendar events",
+    "patent_title": "Context-Aware Expense Prediction System",
+    "patent_abstract": "Uses calendar APIs to estimate future spending",
+    "patent_claims": "Financial forecast based on event types",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A hospital tracking system that uses RFID tags for patient location",
+    "patent_title": "RFID-Based Patient Monitoring Network",
+    "patent_abstract": "Tracks patients and medical devices in real time",
+    "patent_claims": "Location updates using RFID and network nodes",
+    "true_risk": "High"
+  },
+  {
+    "idea": "A language learning app that gives quizzes based on user mistakes",
+    "patent_title": "Adaptive Educational Content Generator",
+    "patent_abstract": "Personalizes quizzes from past learner errors",
+    "patent_claims": "Dynamic content generation driven by performance",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A mobile payment solution that authorizes transactions via fingerprint",
+    "patent_title": "Biometric Payment Authorization",
+    "patent_abstract": "Uses fingerprint recognition to unlock payments",
+    "patent_claims": "Secure biometric transaction approval",
+    "true_risk": "High"
+  },
+  {
+    "idea": "A bicycle lock that sends alerts when movement is detected",
+    "patent_title": "Smart Anti-Theft Bicycle Lock",
+    "patent_abstract": "Alerts owner and immobilizes bicycle when triggered",
+    "patent_claims": "Motion sensing alert and lock activation",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A gardening assistant that recommends watering schedules based on plant type",
+    "patent_title": "Smart Plant Care Recommendation System",
+    "patent_abstract": "Suggests watering times for different plants",
+    "patent_claims": "Plant profile-based schedule generation",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A route planner that avoids highways during high-traffic periods",
+    "patent_title": "Traffic-Aware Navigation Planner",
+    "patent_abstract": "Chooses routes to minimize traffic delay",
+    "patent_claims": "Dynamic highway avoidance using traffic data",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "An AI assistant that summarizes legal contracts for business owners",
+    "patent_title": "Automated Contract Analysis Tool",
+    "patent_abstract": "Extracts key terms and risks from contracts",
+    "patent_claims": "Natural language processing of legal agreements",
+    "true_risk": "High"
+  },
+  {
+    "idea": "A smart fridge that suggests recipes based on current contents",
+    "patent_title": "Intelligent Kitchen Inventory System",
+    "patent_abstract": "Tracks groceries and recommends meals",
+    "patent_claims": "Food recognition and recipe suggestion based on inventory",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A parking app that reserves spaces with real-time availability",
+    "patent_title": "Dynamic Parking Reservation System",
+    "patent_abstract": "Finds and books parking using occupancy sensors",
+    "patent_claims": "Real-time reservation of parking spaces",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A hearing aid that adjusts volume automatically for noisy environments",
+    "patent_title": "Adaptive Sound Leveling Hearing Device",
+    "patent_abstract": "Modifies audio levels based on ambient noise",
+    "patent_claims": "Adaptive volume control in hearing aids",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A wearable fitness tracker that detects unusual heart rhythms",
+    "patent_title": "Arrhythmia Detection Wearable Device",
+    "patent_abstract": "Monitors heart rhythm and alerts on anomalies",
+    "patent_claims": "Wearable cardiac monitoring with irregular heartbeat detection",
+    "true_risk": "High"
+  },
+  {
+    "idea": "A chatbot that helps users book flights and hotels in one conversation",
+    "patent_title": "Conversational Travel Booking System",
+    "patent_abstract": "Combines multiple travel reservations in a chat interface",
+    "patent_claims": "Unified booking through natural language dialogue",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A security camera system that uses facial recognition to open doors",
+    "patent_title": "Biometric Access Control Camera Network",
+    "patent_abstract": "Unlocks doors using face recognition from cameras",
+    "patent_claims": "Camera-based biometric entry authorization",
+    "true_risk": "High"
+  },
+  {
+    "idea": "A hotel app that automatically checks guests in using geolocation",
+    "patent_title": "Location-Based Self Check-In System",
+    "patent_abstract": "Detects guest arrival and provides room access",
+    "patent_claims": "Automatic check-in based on guest location",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A remote learning platform that adapts lesson pace per student performance",
+    "patent_title": "Personalized Education Progression Engine",
+    "patent_abstract": "Adjusts learning modules based on user mastery",
+    "patent_claims": "Automated curriculum pacing for individual learners",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A voice assistant that can schedule meetings across multiple calendars",
+    "patent_title": "Multi-Calendar Voice Scheduling System",
+    "patent_abstract": "Coordinates appointments across calendars with voice commands",
+    "patent_claims": "Natural language scheduling across multiple accounts",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A mobile app that detects skin lesions using phone camera images",
+    "patent_title": "Dermatological Screening via Mobile Imaging",
+    "patent_abstract": "Analyzes photos to flag suspicious skin conditions",
+    "patent_claims": "Mobile device-based lesion detection algorithm",
+    "true_risk": "High"
+  },
+  {
+    "idea": "A workforce scheduling system that predicts employee availability",
+    "patent_title": "Predictive Staff Scheduling Platform",
+    "patent_abstract": "Forecasts worker availability from patterns",
+    "patent_claims": "Schedule generation based on historical availability",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A travel insurance app that automatically files claims after delays",
+    "patent_title": "Automated Delay Claim Processing System",
+    "patent_abstract": "Submits insurance claims when travel disruptions occur",
+    "patent_claims": "Claims automation triggered by delay data",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A smart mirror that recommends clothing based on weather",
+    "patent_title": "Weather-Responsive Wardrobe Recommendation Display",
+    "patent_abstract": "Suggests outfits using weather forecasts",
+    "patent_claims": "Clothing recommendations based on environmental data",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "An industrial sensor network that predicts machine failure",
+    "patent_title": "Predictive Maintenance Sensor System",
+    "patent_abstract": "Monitors equipment and forecasts breakdowns",
+    "patent_claims": "Machine health prediction with sensor analytics",
+    "true_risk": "High"
+  },
+  {
+    "idea": "A cooking app that creates grocery lists from recipe selections",
+    "patent_title": "Recipe-Based Shopping List Generator",
+    "patent_abstract": "Builds ingredient lists from selected meals",
+    "patent_claims": "Grocery list creation linked to recipes",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A sleep tracker that wakes users during light sleep phases",
+    "patent_title": "Smart Alarm Sleep Phase Detection",
+    "patent_abstract": "Monitors sleep cycles and triggers optimal wake times",
+    "patent_claims": "Sleep stage analysis for alarm timing",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A bike-sharing network that balances bikes automatically across stations",
+    "patent_title": "Autonomous Bike Redistribution System",
+    "patent_abstract": "Moves bikes to match demand using predictive models",
+    "patent_claims": "Automated redistribution of shared vehicles",
+    "true_risk": "High"
+  },
+  {
+    "idea": "A chatbot that provides mental health exercises based on mood inputs",
+    "patent_title": "Mood-Aware Mental Wellness Chatbot",
+    "patent_abstract": "Offers therapeutic exercises from user mood",
+    "patent_claims": "Mental health support via conversational mood assessment",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A restaurant app that suggests menu items based on past orders",
+    "patent_title": "Personalized Dining Recommendation Engine",
+    "patent_abstract": "Recommends food choices from order history",
+    "patent_claims": "Tailored menu suggestions using preference data",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A warehouse robot that picks items using barcode scanning",
+    "patent_title": "Automated Barcode-Guided Picking Robot",
+    "patent_abstract": "Identifies and fetches inventory using scanned labels",
+    "patent_claims": "Robotic selection of SKUs via barcode reading",
+    "true_risk": "High"
+  },
+  {
+    "idea": "A smart lighting system that adjusts color temperature throughout the day",
+    "patent_title": "Circadian-Aware Lighting Control System",
+    "patent_abstract": "Changes lighting based on time of day",
+    "patent_claims": "Dynamic lighting adjustments synchronized to circadian rhythms",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A fleet management dashboard that predicts fuel stops",
+    "patent_title": "Predictive Refueling Route Optimization",
+    "patent_abstract": "Plans fuel stops using route and vehicle data",
+    "patent_claims": "Fuel station prediction integrated into fleet routing",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A fitness app that creates interval workouts from user goals",
+    "patent_title": "Goal-Based Interval Training Generator",
+    "patent_abstract": "Builds workout intervals from fitness objectives",
+    "patent_claims": "Customized interval programs from goals",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A content moderation tool that flags hate speech in chat rooms",
+    "patent_title": "Automated Conversational Abuse Detection",
+    "patent_abstract": "Analyzes messages and flags harmful content",
+    "patent_claims": "Real-time moderation of chat language",
+    "true_risk": "High"
+  },
+  {
+    "idea": "A cooking device that steams and grills based on selected recipes",
+    "patent_title": "Hybrid Steam-Grill Cooking Appliance",
+    "patent_abstract": "Combines steaming and grilling with recipe profiles",
+    "patent_claims": "Multi-mode cooking based on recipe input",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A financial dashboard that aggregates multiple bank accounts",
+    "patent_title": "Unified Account Aggregation Interface",
+    "patent_abstract": "Displays balances from different institutions in one view",
+    "patent_claims": "Multi-account financial aggregation service",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A smart home security system that uses motion and door sensors",
+    "patent_title": "Integrated Intrusion Detection Home Security Network",
+    "patent_abstract": "Monitors entry points and activity across the house",
+    "patent_claims": "Combined motion and contact sensor alarm logic",
+    "true_risk": "High"
+  },
+  {
+    "idea": "A personal budgeting coach that suggests reductions for overspending",
+    "patent_title": "Automated Spending Reduction Advisor",
+    "patent_abstract": "Analyzes expenses and suggests budget adjustments",
+    "patent_claims": "Personal finance advice using spending patterns",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A drone inspection system that maps power lines for faults",
+    "patent_title": "Aerial Infrastructure Fault Detection Platform",
+    "patent_abstract": "Uses drones to inspect and map utility lines",
+    "patent_claims": "Automated inspection of electrical infrastructure",
+    "true_risk": "High"
+  },
+  {
+    "idea": "A travel itinerary planner that groups attractions by proximity",
+    "patent_title": "Geographic Clustered Trip Planning Engine",
+    "patent_abstract": "Builds routes with nearby attractions grouped together",
+    "patent_claims": "Travel planning based on attraction proximity",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A mobile app that records workout form and gives corrections",
+    "patent_title": "Form-Correcting Exercise Recording System",
+    "patent_abstract": "Analyzes movements to identify improper form",
+    "patent_claims": "Workout form detection and feedback generation",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A noise-cancelling headset that adapts to user voice frequency",
+    "patent_title": "Adaptive Voice-Focused Acoustic Suppression",
+    "patent_abstract": "Reduces ambient noise while preserving speech",
+    "patent_claims": "Voice-sensitive noise cancellation in headphones",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A smart irrigation controller that waters only when soil is dry",
+    "patent_title": "Moisture-Responsive Landscape Irrigation System",
+    "patent_abstract": "Activates sprinklers based on soil humidity",
+    "patent_claims": "Soil moisture sensing for irrigation control",
+    "true_risk": "High"
+  },
+  {
+    "idea": "A sports analytics tool that recommends training drills",
+    "patent_title": "Performance-Based Athletic Training Advisor",
+    "patent_abstract": "Suggests drills from athlete performance data",
+    "patent_claims": "Training recommendation from sports metrics",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A ride-sharing app that matches riders with split-trip routes",
+    "patent_title": "Shared Route Optimization Carpool System",
+    "patent_abstract": "Matches riders for partially shared rides",
+    "patent_claims": "Dynamic carpooling based on route overlap",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A medication reminder system that alerts caregivers when doses are missed",
+    "patent_title": "Caregiver Alerting Medication Compliance System",
+    "patent_abstract": "Notifies caregivers of missed medication events",
+    "patent_claims": "Remote monitoring of patient medication adherence",
+    "true_risk": "High"
+  },
+  {
+    "idea": "A home energy management app that suggests peak/off-peak usage",
+    "patent_title": "Time-of-Use Energy Optimization Interface",
+    "patent_abstract": "Recommends appliance use during low-cost periods",
+    "patent_claims": "User guidance for energy consumption scheduling",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A customer support bot that escalates to an agent when frustrated signals appear",
+    "patent_title": "Sentiment-Aware Support Escalation System",
+    "patent_abstract": "Monitors customer tone and routes to human agents",
+    "patent_claims": "Automatic escalation based on negative sentiment",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A financial fraud detector that flags anomalous transaction patterns",
+    "patent_title": "Behavioral Transaction Fraud Analytics",
+    "patent_abstract": "Identifies unusual spending behavior for fraud alerts",
+    "patent_claims": "Pattern-based fraud detection in payments",
+    "true_risk": "High"
+  },
+  {
+    "idea": "A smart gardening sensor that measures light and humidity for plant care",
+    "patent_title": "Environmental Monitoring Plant Care Sensor",
+    "patent_abstract": "Detects sunlight and humidity for garden health",
+    "patent_claims": "Plant care guidance from ambient sensors",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A smart note-taking app that turns meeting audio into action items",
+    "patent_title": "Meeting Transcript Action Item Extractor",
+    "patent_abstract": "Generates tasks from recorded discussions",
+    "patent_claims": "Speech-to-action summary creation",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A personal finance coach that suggests debt payoff priorities",
+    "patent_title": "Priority-Based Debt Repayment Advisor",
+    "patent_abstract": "Recommends payoff order for loans and credit",
+    "patent_claims": "Debt elimination strategy generation",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A smart bicycle helmet that flashes warning lights when cars approach",
+    "patent_title": "Proximity Alert Bicycle Safety Helmet",
+    "patent_abstract": "Detects vehicles and activates warning lights",
+    "patent_claims": "Helmet-based approach detection and signaling",
+    "true_risk": "High"
+  },
+  {
+    "idea": "A grocery app that finds discounts based on dietary restrictions",
+    "patent_title": "Diet-Aware Shopping Discount Finder",
+    "patent_abstract": "Filters deals for specific dietary needs",
+    "patent_claims": "Targeted discount recommendations using diet preferences",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A voice interface that translates instructions between languages in real time",
+    "patent_title": "Real-Time Multilingual Voice Interpretation System",
+    "patent_abstract": "Converts spoken language across languages instantly",
+    "patent_claims": "Live voice translation for conversational use",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A remote patient monitoring platform that tracks blood pressure and sends alerts",
+    "patent_title": "Remote Hypertension Monitoring Network",
+    "patent_abstract": "Collects blood pressure readings and notifies clinicians",
+    "patent_claims": "Remote vital sign monitoring with alerting",
+    "true_risk": "High"
+  },
+  {
+    "idea": "A digital wallet that automatically applies coupons at checkout",
+    "patent_title": "Automated Coupon Application Payment Wallet",
+    "patent_abstract": "Finds and applies savings during purchase",
+    "patent_claims": "Payment wallet with coupon matching",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A bike route app that favors low pollution streets for cyclists",
+    "patent_title": "Air Quality-Aware Cycling Route Planner",
+    "patent_abstract": "Selects cleaner air paths for bike travel",
+    "patent_claims": "Route planning weighted by pollution metrics",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "An app that tracks pet activity and sends wellness notifications",
+    "patent_title": "Pet Activity Monitoring and Alert System",
+    "patent_abstract": "Uses sensor data to monitor pet movement",
+    "patent_claims": "Animal health alerts from activity tracking",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A modular furniture system that snaps together using magnets",
+    "patent_title": "Magnetic Modular Furniture Assembly",
+    "patent_abstract": "Enables furniture pieces to attach securely with magnets",
+    "patent_claims": "Magnetically coupled modular furniture design",
+    "true_risk": "High"
+  },
+  {
+    "idea": "A team collaboration board that organizes ideas into categories automatically",
+    "patent_title": "Automated Idea Clustering Whiteboard",
+    "patent_abstract": "Groups input into categories using semantic analysis",
+    "patent_claims": "Collaborative ideation organization from freeform input",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "An app that monitors screen time and suggests breaks for eye health",
+    "patent_title": "Digital Wellness Break Recommendation System",
+    "patent_abstract": "Analyzes usage and prompts rest intervals",
+    "patent_claims": "Screen time detection with health reminders",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A warehouse inventory system that uses RFID to locate misplaced items",
+    "patent_title": "RFID Inventory Location Recovery System",
+    "patent_abstract": "Finds lost stock using RFID tag scans",
+    "patent_claims": "Automated item location using radio frequency identification",
+    "true_risk": "High"
+  },
+  {
+    "idea": "A music discovery app that suggests playlists based on weather and mood",
+    "patent_title": "Contextual Playlist Generation System",
+    "patent_abstract": "Creates playlists from mood and weather signals",
+    "patent_claims": "Dynamic music selection driven by environmental context",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A nutrition app that tracks nutrient intake from meal photos",
+    "patent_title": "Image-Based Dietary Nutrient Estimation System",
+    "patent_abstract": "Analyzes food photos and estimates nutritional values",
+    "patent_claims": "Meal image interpretation for nutrient tracking",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A construction tool that measures angle and distance for layout tasks",
+    "patent_title": "Digital Layout Measurement Device",
+    "patent_abstract": "Measures construction angles and distances with sensors",
+    "patent_claims": "Integrated measurement of angle and length for builders",
+    "true_risk": "High"
+  },
+  {
+    "idea": "A ride-hailing service that offers carbon-neutral route options",
+    "patent_title": "Eco-Friendly Ride Matching Platform",
+    "patent_abstract": "Matches riders with options minimizing emissions",
+    "patent_claims": "Sustainable route selection in mobility services",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A pet feeder that dispenses food on a schedule and records feeding events",
+    "patent_title": "Automated Scheduled Pet Feeding System",
+    "patent_abstract": "Programs meals and logs feedings for pets",
+    "patent_claims": "Timed dispensing and monitoring of pet food",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A video editing tool that creates highlight reels from sports footage",
+    "patent_title": "Automated Sports Highlight Generation Engine",
+    "patent_abstract": "Identifies key moments and compiles highlight clips",
+    "patent_claims": "Sports event summarization using video analytics",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A smart bicycle helmet that records crash events and alerts emergency contacts",
+    "patent_title": "Impact Detection Emergency Alert Helmet",
+    "patent_abstract": "Detects collisions and sends alerts automatically",
+    "patent_claims": "Crash sensing and emergency notification in helmets",
+    "true_risk": "High"
+  },
+  {
+    "idea": "A real-time patient monitoring system using wearable sensors",
+    "patent_title": "Wearable Biometric Sensor Network",
+    "patent_abstract": "Collects vital signs continuously",
+    "patent_claims": "Wireless transmission of health data",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A real-time patient monitoring system using wearable sensors",
+    "patent_title": "Medication Management Platform",
+    "patent_abstract": "Tracks pill intake through computer vision",
+    "patent_claims": "Sends alerts via SMS and app",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A real-time patient monitoring system using wearable sensors",
+    "patent_title": "Remote Patient Consultation System",
+    "patent_abstract": "Video calls with real-time health metric sharing",
+    "patent_claims": "Integration with EHR systems",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A real-time patient monitoring system using wearable sensors",
+    "patent_title": "Precision Surgical Robot",
+    "patent_abstract": "AI-guided incision trajectory planning",
+    "patent_claims": "Haptic feedback to surgeon",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A real-time patient monitoring system using wearable sensors",
+    "patent_title": "Medical Image Analysis Engine",
+    "patent_abstract": "Detects tumors and anomalies",
+    "patent_claims": "Generates diagnostic reports",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A real-time patient monitoring system using wearable sensors",
+    "patent_title": "Cardiac Arrhythmia Detector",
+    "patent_abstract": "Real-time ECG analysis",
+    "patent_claims": "Cloud-based alerting",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A real-time patient monitoring system using wearable sensors",
+    "patent_title": "Pharmaceutical Research Accelerator",
+    "patent_abstract": "Simulates molecular interactions",
+    "patent_claims": "Predicts drug efficacy",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A medication reminder app that tracks adherence",
+    "patent_title": "Medication Management Platform",
+    "patent_abstract": "Tracks pill intake through computer vision",
+    "patent_claims": "Sends alerts via SMS and app",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A medication reminder app that tracks adherence",
+    "patent_title": "Remote Patient Consultation System",
+    "patent_abstract": "Video calls with real-time health metric sharing",
+    "patent_claims": "Integration with EHR systems",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A medication reminder app that tracks adherence",
+    "patent_title": "Precision Surgical Robot",
+    "patent_abstract": "AI-guided incision trajectory planning",
+    "patent_claims": "Haptic feedback to surgeon",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A medication reminder app that tracks adherence",
+    "patent_title": "Medical Image Analysis Engine",
+    "patent_abstract": "Detects tumors and anomalies",
+    "patent_claims": "Generates diagnostic reports",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A medication reminder app that tracks adherence",
+    "patent_title": "Cardiac Arrhythmia Detector",
+    "patent_abstract": "Real-time ECG analysis",
+    "patent_claims": "Cloud-based alerting",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A medication reminder app that tracks adherence",
+    "patent_title": "Pharmaceutical Research Accelerator",
+    "patent_abstract": "Simulates molecular interactions",
+    "patent_claims": "Predicts drug efficacy",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A medication reminder app that tracks adherence",
+    "patent_title": "Hospital Resource Management",
+    "patent_abstract": "Predicts bed and OR availability",
+    "patent_claims": "Optimizes staff scheduling",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A telehealth platform for remote diagnostics",
+    "patent_title": "Remote Patient Consultation System",
+    "patent_abstract": "Video calls with real-time health metric sharing",
+    "patent_claims": "Integration with EHR systems",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A telehealth platform for remote diagnostics",
+    "patent_title": "Precision Surgical Robot",
+    "patent_abstract": "AI-guided incision trajectory planning",
+    "patent_claims": "Haptic feedback to surgeon",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A telehealth platform for remote diagnostics",
+    "patent_title": "Medical Image Analysis Engine",
+    "patent_abstract": "Detects tumors and anomalies",
+    "patent_claims": "Generates diagnostic reports",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A telehealth platform for remote diagnostics",
+    "patent_title": "Cardiac Arrhythmia Detector",
+    "patent_abstract": "Real-time ECG analysis",
+    "patent_claims": "Cloud-based alerting",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A telehealth platform for remote diagnostics",
+    "patent_title": "Pharmaceutical Research Accelerator",
+    "patent_abstract": "Simulates molecular interactions",
+    "patent_claims": "Predicts drug efficacy",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A robotic surgery assistant for precise incisions",
+    "patent_title": "Precision Surgical Robot",
+    "patent_abstract": "AI-guided incision trajectory planning",
+    "patent_claims": "Haptic feedback to surgeon",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A robotic surgery assistant for precise incisions",
+    "patent_title": "Medical Image Analysis Engine",
+    "patent_abstract": "Detects tumors and anomalies",
+    "patent_claims": "Generates diagnostic reports",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A robotic surgery assistant for precise incisions",
+    "patent_title": "Cardiac Arrhythmia Detector",
+    "patent_abstract": "Real-time ECG analysis",
+    "patent_claims": "Cloud-based alerting",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A robotic surgery assistant for precise incisions",
+    "patent_title": "Pharmaceutical Research Accelerator",
+    "patent_abstract": "Simulates molecular interactions",
+    "patent_claims": "Predicts drug efficacy",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A robotic surgery assistant for precise incisions",
+    "patent_title": "Hospital Resource Management",
+    "patent_abstract": "Predicts bed and OR availability",
+    "patent_claims": "Optimizes staff scheduling",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A robotic surgery assistant for precise incisions",
+    "patent_title": "Healthcare Data Encryption",
+    "patent_abstract": "End-to-end encryption for patient records",
+    "patent_claims": "Blockchain-based audit trail",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A robotic surgery assistant for precise incisions",
+    "patent_title": "Emergency Response System",
+    "patent_abstract": "Voice recognition for SOS triggering",
+    "patent_claims": "Automatic location sharing",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A disease screening tool using deep learning on medical images",
+    "patent_title": "Medical Image Analysis Engine",
+    "patent_abstract": "Detects tumors and anomalies",
+    "patent_claims": "Generates diagnostic reports",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A disease screening tool using deep learning on medical images",
+    "patent_title": "Cardiac Arrhythmia Detector",
+    "patent_abstract": "Real-time ECG analysis",
+    "patent_claims": "Cloud-based alerting",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A disease screening tool using deep learning on medical images",
+    "patent_title": "Pharmaceutical Research Accelerator",
+    "patent_abstract": "Simulates molecular interactions",
+    "patent_claims": "Predicts drug efficacy",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A disease screening tool using deep learning on medical images",
+    "patent_title": "Hospital Resource Management",
+    "patent_abstract": "Predicts bed and OR availability",
+    "patent_claims": "Optimizes staff scheduling",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A disease screening tool using deep learning on medical images",
+    "patent_title": "Healthcare Data Encryption",
+    "patent_abstract": "End-to-end encryption for patient records",
+    "patent_claims": "Blockchain-based audit trail",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A disease screening tool using deep learning on medical images",
+    "patent_title": "Emergency Response System",
+    "patent_abstract": "Voice recognition for SOS triggering",
+    "patent_claims": "Automatic location sharing",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A smartwatch app that detects irregular heartbeat",
+    "patent_title": "Cardiac Arrhythmia Detector",
+    "patent_abstract": "Real-time ECG analysis",
+    "patent_claims": "Cloud-based alerting",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A smartwatch app that detects irregular heartbeat",
+    "patent_title": "Pharmaceutical Research Accelerator",
+    "patent_abstract": "Simulates molecular interactions",
+    "patent_claims": "Predicts drug efficacy",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A smartwatch app that detects irregular heartbeat",
+    "patent_title": "Hospital Resource Management",
+    "patent_abstract": "Predicts bed and OR availability",
+    "patent_claims": "Optimizes staff scheduling",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A smartwatch app that detects irregular heartbeat",
+    "patent_title": "Healthcare Data Encryption",
+    "patent_abstract": "End-to-end encryption for patient records",
+    "patent_claims": "Blockchain-based audit trail",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A smartwatch app that detects irregular heartbeat",
+    "patent_title": "Emergency Response System",
+    "patent_abstract": "Voice recognition for SOS triggering",
+    "patent_claims": "Automatic location sharing",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A smartwatch app that detects irregular heartbeat",
+    "patent_title": "Wearable Biometric Sensor Network",
+    "patent_abstract": "Collects vital signs continuously",
+    "patent_claims": "Wireless transmission of health data",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A smartwatch app that detects irregular heartbeat",
+    "patent_title": "Medication Management Platform",
+    "patent_abstract": "Tracks pill intake through computer vision",
+    "patent_claims": "Sends alerts via SMS and app",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "An AI-powered drug discovery system",
+    "patent_title": "Pharmaceutical Research Accelerator",
+    "patent_abstract": "Simulates molecular interactions",
+    "patent_claims": "Predicts drug efficacy",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "An AI-powered drug discovery system",
+    "patent_title": "Hospital Resource Management",
+    "patent_abstract": "Predicts bed and OR availability",
+    "patent_claims": "Optimizes staff scheduling",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "An AI-powered drug discovery system",
+    "patent_title": "Healthcare Data Encryption",
+    "patent_abstract": "End-to-end encryption for patient records",
+    "patent_claims": "Blockchain-based audit trail",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "An AI-powered drug discovery system",
+    "patent_title": "Emergency Response System",
+    "patent_abstract": "Voice recognition for SOS triggering",
+    "patent_claims": "Automatic location sharing",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "An AI-powered drug discovery system",
+    "patent_title": "Wearable Biometric Sensor Network",
+    "patent_abstract": "Collects vital signs continuously",
+    "patent_claims": "Wireless transmission of health data",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A hospital resource allocation optimizer",
+    "patent_title": "Hospital Resource Management",
+    "patent_abstract": "Predicts bed and OR availability",
+    "patent_claims": "Optimizes staff scheduling",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A hospital resource allocation optimizer",
+    "patent_title": "Healthcare Data Encryption",
+    "patent_abstract": "End-to-end encryption for patient records",
+    "patent_claims": "Blockchain-based audit trail",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A hospital resource allocation optimizer",
+    "patent_title": "Emergency Response System",
+    "patent_abstract": "Voice recognition for SOS triggering",
+    "patent_claims": "Automatic location sharing",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A hospital resource allocation optimizer",
+    "patent_title": "Wearable Biometric Sensor Network",
+    "patent_abstract": "Collects vital signs continuously",
+    "patent_claims": "Wireless transmission of health data",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A hospital resource allocation optimizer",
+    "patent_title": "Medication Management Platform",
+    "patent_abstract": "Tracks pill intake through computer vision",
+    "patent_claims": "Sends alerts via SMS and app",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A hospital resource allocation optimizer",
+    "patent_title": "Remote Patient Consultation System",
+    "patent_abstract": "Video calls with real-time health metric sharing",
+    "patent_claims": "Integration with EHR systems",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A medical records encryption system",
+    "patent_title": "Healthcare Data Encryption",
+    "patent_abstract": "End-to-end encryption for patient records",
+    "patent_claims": "Blockchain-based audit trail",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A medical records encryption system",
+    "patent_title": "Emergency Response System",
+    "patent_abstract": "Voice recognition for SOS triggering",
+    "patent_claims": "Automatic location sharing",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A medical records encryption system",
+    "patent_title": "Wearable Biometric Sensor Network",
+    "patent_abstract": "Collects vital signs continuously",
+    "patent_claims": "Wireless transmission of health data",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A medical records encryption system",
+    "patent_title": "Medication Management Platform",
+    "patent_abstract": "Tracks pill intake through computer vision",
+    "patent_claims": "Sends alerts via SMS and app",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A medical records encryption system",
+    "patent_title": "Remote Patient Consultation System",
+    "patent_abstract": "Video calls with real-time health metric sharing",
+    "patent_claims": "Integration with EHR systems",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A voice-activated emergency alert system for elderly",
+    "patent_title": "Emergency Response System",
+    "patent_abstract": "Voice recognition for SOS triggering",
+    "patent_claims": "Automatic location sharing",
+    "true_risk": "High"
+  },
+  {
+    "idea": "A voice-activated emergency alert system for elderly",
+    "patent_title": "Wearable Biometric Sensor Network",
+    "patent_abstract": "Collects vital signs continuously",
+    "patent_claims": "Wireless transmission of health data",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A voice-activated emergency alert system for elderly",
+    "patent_title": "Medication Management Platform",
+    "patent_abstract": "Tracks pill intake through computer vision",
+    "patent_claims": "Sends alerts via SMS and app",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A voice-activated emergency alert system for elderly",
+    "patent_title": "Remote Patient Consultation System",
+    "patent_abstract": "Video calls with real-time health metric sharing",
+    "patent_claims": "Integration with EHR systems",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A voice-activated emergency alert system for elderly",
+    "patent_title": "Precision Surgical Robot",
+    "patent_abstract": "AI-guided incision trajectory planning",
+    "patent_claims": "Haptic feedback to surgeon",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A voice-activated emergency alert system for elderly",
+    "patent_title": "Medical Image Analysis Engine",
+    "patent_abstract": "Detects tumors and anomalies",
+    "patent_claims": "Generates diagnostic reports",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A voice-activated emergency alert system for elderly",
+    "patent_title": "Cardiac Arrhythmia Detector",
+    "patent_abstract": "Real-time ECG analysis",
+    "patent_claims": "Cloud-based alerting",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A system that controls lights based on circadian rhythm",
+    "patent_title": "Circadian Rhythm Lighting Control",
+    "patent_abstract": "Adjusts color temperature throughout day",
+    "patent_claims": "Sync with occupancy sensors",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A system that controls lights based on circadian rhythm",
+    "patent_title": "Facial Recognition Door Lock",
+    "patent_abstract": "Matches faces against database",
+    "patent_claims": "Dual-factor authentication",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A system that controls lights based on circadian rhythm",
+    "patent_title": "Radar-Based Security System",
+    "patent_abstract": "Detects intruders through walls",
+    "patent_claims": "24/7 monitoring",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A system that controls lights based on circadian rhythm",
+    "patent_title": "Smart Water Meter",
+    "patent_abstract": "Real-time consumption tracking",
+    "patent_claims": "Alerts on anomalies",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A system that controls lights based on circadian rhythm",
+    "patent_title": "IoT Irrigation System",
+    "patent_abstract": "Weather-adaptive watering schedule",
+    "patent_claims": "Soil moisture sensors",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A smart door lock with facial recognition",
+    "patent_title": "Facial Recognition Door Lock",
+    "patent_abstract": "Matches faces against database",
+    "patent_claims": "Dual-factor authentication",
+    "true_risk": "High"
+  },
+  {
+    "idea": "A smart door lock with facial recognition",
+    "patent_title": "Radar-Based Security System",
+    "patent_abstract": "Detects intruders through walls",
+    "patent_claims": "24/7 monitoring",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A smart door lock with facial recognition",
+    "patent_title": "Smart Water Meter",
+    "patent_abstract": "Real-time consumption tracking",
+    "patent_claims": "Alerts on anomalies",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A smart door lock with facial recognition",
+    "patent_title": "IoT Irrigation System",
+    "patent_abstract": "Weather-adaptive watering schedule",
+    "patent_claims": "Soil moisture sensors",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A smart door lock with facial recognition",
+    "patent_title": "Predictive HVAC Maintenance",
+    "patent_abstract": "ML-based failure prediction",
+    "patent_claims": "Automated service requests",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A smart door lock with facial recognition",
+    "patent_title": "Voice-Controlled Home Automation",
+    "patent_abstract": "Integrates multiple device types",
+    "patent_claims": "Natural language processing",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A smart door lock with facial recognition",
+    "patent_title": "Smart Grocery Ordering Fridge",
+    "patent_abstract": "Tracks inventory via weight sensors",
+    "patent_claims": "Auto-reorders staples",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A home security system using radar sensors",
+    "patent_title": "Radar-Based Security System",
+    "patent_abstract": "Detects intruders through walls",
+    "patent_claims": "24/7 monitoring",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A home security system using radar sensors",
+    "patent_title": "Smart Water Meter",
+    "patent_abstract": "Real-time consumption tracking",
+    "patent_claims": "Alerts on anomalies",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A home security system using radar sensors",
+    "patent_title": "IoT Irrigation System",
+    "patent_abstract": "Weather-adaptive watering schedule",
+    "patent_claims": "Soil moisture sensors",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A home security system using radar sensors",
+    "patent_title": "Predictive HVAC Maintenance",
+    "patent_abstract": "ML-based failure prediction",
+    "patent_claims": "Automated service requests",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A home security system using radar sensors",
+    "patent_title": "Voice-Controlled Home Automation",
+    "patent_abstract": "Integrates multiple device types",
+    "patent_claims": "Natural language processing",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A home security system using radar sensors",
+    "patent_title": "Smart Grocery Ordering Fridge",
+    "patent_abstract": "Tracks inventory via weight sensors",
+    "patent_claims": "Auto-reorders staples",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A home security system using radar sensors",
+    "patent_title": "AI-Powered Security Cameras",
+    "patent_abstract": "Person detection and tracking",
+    "patent_claims": "Cloud and edge recording",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A water usage monitoring system for conservation",
+    "patent_title": "Smart Water Meter",
+    "patent_abstract": "Real-time consumption tracking",
+    "patent_claims": "Alerts on anomalies",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A water usage monitoring system for conservation",
+    "patent_title": "IoT Irrigation System",
+    "patent_abstract": "Weather-adaptive watering schedule",
+    "patent_claims": "Soil moisture sensors",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A water usage monitoring system for conservation",
+    "patent_title": "Predictive HVAC Maintenance",
+    "patent_abstract": "ML-based failure prediction",
+    "patent_claims": "Automated service requests",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A water usage monitoring system for conservation",
+    "patent_title": "Voice-Controlled Home Automation",
+    "patent_abstract": "Integrates multiple device types",
+    "patent_claims": "Natural language processing",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A water usage monitoring system for conservation",
+    "patent_title": "Smart Grocery Ordering Fridge",
+    "patent_abstract": "Tracks inventory via weight sensors",
+    "patent_claims": "Auto-reorders staples",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A water usage monitoring system for conservation",
+    "patent_title": "AI-Powered Security Cameras",
+    "patent_abstract": "Person detection and tracking",
+    "patent_claims": "Cloud and edge recording",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A water usage monitoring system for conservation",
+    "patent_title": "Electrochromic Smart Windows",
+    "patent_abstract": "Auto-dimming glass technology",
+    "patent_claims": "Energy efficiency optimization",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A smart irrigation controller for gardens",
+    "patent_title": "IoT Irrigation System",
+    "patent_abstract": "Weather-adaptive watering schedule",
+    "patent_claims": "Soil moisture sensors",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A smart irrigation controller for gardens",
+    "patent_title": "Predictive HVAC Maintenance",
+    "patent_abstract": "ML-based failure prediction",
+    "patent_claims": "Automated service requests",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A smart irrigation controller for gardens",
+    "patent_title": "Voice-Controlled Home Automation",
+    "patent_abstract": "Integrates multiple device types",
+    "patent_claims": "Natural language processing",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A smart irrigation controller for gardens",
+    "patent_title": "Smart Grocery Ordering Fridge",
+    "patent_abstract": "Tracks inventory via weight sensors",
+    "patent_claims": "Auto-reorders staples",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A smart irrigation controller for gardens",
+    "patent_title": "AI-Powered Security Cameras",
+    "patent_abstract": "Person detection and tracking",
+    "patent_claims": "Cloud and edge recording",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A smart irrigation controller for gardens",
+    "patent_title": "Electrochromic Smart Windows",
+    "patent_abstract": "Auto-dimming glass technology",
+    "patent_claims": "Energy efficiency optimization",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A smart irrigation controller for gardens",
+    "patent_title": "Circadian Rhythm Lighting Control",
+    "patent_abstract": "Adjusts color temperature throughout day",
+    "patent_claims": "Sync with occupancy sensors",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "An AC system that predicts maintenance needs",
+    "patent_title": "Predictive HVAC Maintenance",
+    "patent_abstract": "ML-based failure prediction",
+    "patent_claims": "Automated service requests",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "An AC system that predicts maintenance needs",
+    "patent_title": "Voice-Controlled Home Automation",
+    "patent_abstract": "Integrates multiple device types",
+    "patent_claims": "Natural language processing",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "An AC system that predicts maintenance needs",
+    "patent_title": "Smart Grocery Ordering Fridge",
+    "patent_abstract": "Tracks inventory via weight sensors",
+    "patent_claims": "Auto-reorders staples",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "An AC system that predicts maintenance needs",
+    "patent_title": "AI-Powered Security Cameras",
+    "patent_abstract": "Person detection and tracking",
+    "patent_claims": "Cloud and edge recording",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "An AC system that predicts maintenance needs",
+    "patent_title": "Electrochromic Smart Windows",
+    "patent_abstract": "Auto-dimming glass technology",
+    "patent_claims": "Energy efficiency optimization",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "An AC system that predicts maintenance needs",
+    "patent_title": "Circadian Rhythm Lighting Control",
+    "patent_abstract": "Adjusts color temperature throughout day",
+    "patent_claims": "Sync with occupancy sensors",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A voice assistant for home automation",
+    "patent_title": "Voice-Controlled Home Automation",
+    "patent_abstract": "Integrates multiple device types",
+    "patent_claims": "Natural language processing",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A voice assistant for home automation",
+    "patent_title": "Smart Grocery Ordering Fridge",
+    "patent_abstract": "Tracks inventory via weight sensors",
+    "patent_claims": "Auto-reorders staples",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A voice assistant for home automation",
+    "patent_title": "AI-Powered Security Cameras",
+    "patent_abstract": "Person detection and tracking",
+    "patent_claims": "Cloud and edge recording",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A voice assistant for home automation",
+    "patent_title": "Electrochromic Smart Windows",
+    "patent_abstract": "Auto-dimming glass technology",
+    "patent_claims": "Energy efficiency optimization",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A voice assistant for home automation",
+    "patent_title": "Circadian Rhythm Lighting Control",
+    "patent_abstract": "Adjusts color temperature throughout day",
+    "patent_claims": "Sync with occupancy sensors",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A smart refrigerator that orders groceries",
+    "patent_title": "Smart Grocery Ordering Fridge",
+    "patent_abstract": "Tracks inventory via weight sensors",
+    "patent_claims": "Auto-reorders staples",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A smart refrigerator that orders groceries",
+    "patent_title": "AI-Powered Security Cameras",
+    "patent_abstract": "Person detection and tracking",
+    "patent_claims": "Cloud and edge recording",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A smart refrigerator that orders groceries",
+    "patent_title": "Electrochromic Smart Windows",
+    "patent_abstract": "Auto-dimming glass technology",
+    "patent_claims": "Energy efficiency optimization",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A smart refrigerator that orders groceries",
+    "patent_title": "Circadian Rhythm Lighting Control",
+    "patent_abstract": "Adjusts color temperature throughout day",
+    "patent_claims": "Sync with occupancy sensors",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A smart refrigerator that orders groceries",
+    "patent_title": "Facial Recognition Door Lock",
+    "patent_abstract": "Matches faces against database",
+    "patent_claims": "Dual-factor authentication",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A motion-activated security camera system",
+    "patent_title": "AI-Powered Security Cameras",
+    "patent_abstract": "Person detection and tracking",
+    "patent_claims": "Cloud and edge recording",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A motion-activated security camera system",
+    "patent_title": "Electrochromic Smart Windows",
+    "patent_abstract": "Auto-dimming glass technology",
+    "patent_claims": "Energy efficiency optimization",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A motion-activated security camera system",
+    "patent_title": "Circadian Rhythm Lighting Control",
+    "patent_abstract": "Adjusts color temperature throughout day",
+    "patent_claims": "Sync with occupancy sensors",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A motion-activated security camera system",
+    "patent_title": "Facial Recognition Door Lock",
+    "patent_abstract": "Matches faces against database",
+    "patent_claims": "Dual-factor authentication",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A motion-activated security camera system",
+    "patent_title": "Radar-Based Security System",
+    "patent_abstract": "Detects intruders through walls",
+    "patent_claims": "24/7 monitoring",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A motion-activated security camera system",
+    "patent_title": "Smart Water Meter",
+    "patent_abstract": "Real-time consumption tracking",
+    "patent_claims": "Alerts on anomalies",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A motion-activated security camera system",
+    "patent_title": "IoT Irrigation System",
+    "patent_abstract": "Weather-adaptive watering schedule",
+    "patent_claims": "Soil moisture sensors",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A smart window that adjusts tint based on sunlight",
+    "patent_title": "Electrochromic Smart Windows",
+    "patent_abstract": "Auto-dimming glass technology",
+    "patent_claims": "Energy efficiency optimization",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A smart window that adjusts tint based on sunlight",
+    "patent_title": "Circadian Rhythm Lighting Control",
+    "patent_abstract": "Adjusts color temperature throughout day",
+    "patent_claims": "Sync with occupancy sensors",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A smart window that adjusts tint based on sunlight",
+    "patent_title": "Facial Recognition Door Lock",
+    "patent_abstract": "Matches faces against database",
+    "patent_claims": "Dual-factor authentication",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A smart window that adjusts tint based on sunlight",
+    "patent_title": "Radar-Based Security System",
+    "patent_abstract": "Detects intruders through walls",
+    "patent_claims": "24/7 monitoring",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A smart window that adjusts tint based on sunlight",
+    "patent_title": "Smart Water Meter",
+    "patent_abstract": "Real-time consumption tracking",
+    "patent_claims": "Alerts on anomalies",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A vehicle routing system that avoids congestion in real-time",
+    "patent_title": "Real-time Route Optimization Engine",
+    "patent_abstract": "Calculates fastest paths dynamically",
+    "patent_claims": "Crowd-sourced traffic data",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A vehicle routing system that avoids congestion in real-time",
+    "patent_title": "Autonomous Campus Shuttle",
+    "patent_abstract": "Self-driving vehicle for defined routes",
+    "patent_claims": "Passenger safety features",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A vehicle routing system that avoids congestion in real-time",
+    "patent_title": "Computer Vision Parking System",
+    "patent_abstract": "Detects available spots automatically",
+    "patent_claims": "Mobile app integration",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A vehicle routing system that avoids congestion in real-time",
+    "patent_title": "EV Battery Health Monitor",
+    "patent_abstract": "Predicts remaining battery life",
+    "patent_claims": "Optimization recommendations",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A vehicle routing system that avoids congestion in real-time",
+    "patent_title": "Urban Traffic Forecasting",
+    "patent_abstract": "Deep learning traffic prediction",
+    "patent_claims": "Integration with traffic lights",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "An autonomous shuttle service for campuses",
+    "patent_title": "Autonomous Campus Shuttle",
+    "patent_abstract": "Self-driving vehicle for defined routes",
+    "patent_claims": "Passenger safety features",
+    "true_risk": "High"
+  },
+  {
+    "idea": "An autonomous shuttle service for campuses",
+    "patent_title": "Computer Vision Parking System",
+    "patent_abstract": "Detects available spots automatically",
+    "patent_claims": "Mobile app integration",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "An autonomous shuttle service for campuses",
+    "patent_title": "EV Battery Health Monitor",
+    "patent_abstract": "Predicts remaining battery life",
+    "patent_claims": "Optimization recommendations",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "An autonomous shuttle service for campuses",
+    "patent_title": "Urban Traffic Forecasting",
+    "patent_abstract": "Deep learning traffic prediction",
+    "patent_claims": "Integration with traffic lights",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "An autonomous shuttle service for campuses",
+    "patent_title": "Fleet Maintenance Predictor",
+    "patent_abstract": "Detects component wear patterns",
+    "patent_claims": "Optimizes maintenance schedule",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "An autonomous shuttle service for campuses",
+    "patent_title": "Dynamic Ride-Sharing Platform",
+    "patent_abstract": "Adjusts prices based on demand",
+    "patent_claims": "Real-time matching algorithm",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "An autonomous shuttle service for campuses",
+    "patent_title": "V2X Communication Protocol",
+    "patent_abstract": "Vehicle-to-road infrastructure messaging",
+    "patent_claims": "Collision avoidance alerts",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A parking lot management system using computer vision",
+    "patent_title": "Computer Vision Parking System",
+    "patent_abstract": "Detects available spots automatically",
+    "patent_claims": "Mobile app integration",
+    "true_risk": "High"
+  },
+  {
+    "idea": "A parking lot management system using computer vision",
+    "patent_title": "EV Battery Health Monitor",
+    "patent_abstract": "Predicts remaining battery life",
+    "patent_claims": "Optimization recommendations",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A parking lot management system using computer vision",
+    "patent_title": "Urban Traffic Forecasting",
+    "patent_abstract": "Deep learning traffic prediction",
+    "patent_claims": "Integration with traffic lights",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A parking lot management system using computer vision",
+    "patent_title": "Fleet Maintenance Predictor",
+    "patent_abstract": "Detects component wear patterns",
+    "patent_claims": "Optimizes maintenance schedule",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A parking lot management system using computer vision",
+    "patent_title": "Dynamic Ride-Sharing Platform",
+    "patent_abstract": "Adjusts prices based on demand",
+    "patent_claims": "Real-time matching algorithm",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A parking lot management system using computer vision",
+    "patent_title": "V2X Communication Protocol",
+    "patent_abstract": "Vehicle-to-road infrastructure messaging",
+    "patent_claims": "Collision avoidance alerts",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A parking lot management system using computer vision",
+    "patent_title": "Drone Delivery Router",
+    "patent_abstract": "Plans optimal delivery sequences",
+    "patent_claims": "Weather-aware path planning",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A vehicle battery diagnostic tool",
+    "patent_title": "EV Battery Health Monitor",
+    "patent_abstract": "Predicts remaining battery life",
+    "patent_claims": "Optimization recommendations",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A vehicle battery diagnostic tool",
+    "patent_title": "Urban Traffic Forecasting",
+    "patent_abstract": "Deep learning traffic prediction",
+    "patent_claims": "Integration with traffic lights",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A vehicle battery diagnostic tool",
+    "patent_title": "Fleet Maintenance Predictor",
+    "patent_abstract": "Detects component wear patterns",
+    "patent_claims": "Optimizes maintenance schedule",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A vehicle battery diagnostic tool",
+    "patent_title": "Dynamic Ride-Sharing Platform",
+    "patent_abstract": "Adjusts prices based on demand",
+    "patent_claims": "Real-time matching algorithm",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A vehicle battery diagnostic tool",
+    "patent_title": "V2X Communication Protocol",
+    "patent_abstract": "Vehicle-to-road infrastructure messaging",
+    "patent_claims": "Collision avoidance alerts",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A vehicle battery diagnostic tool",
+    "patent_title": "Drone Delivery Router",
+    "patent_abstract": "Plans optimal delivery sequences",
+    "patent_claims": "Weather-aware path planning",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A vehicle battery diagnostic tool",
+    "patent_title": "Fuel Economy Tracking System",
+    "patent_abstract": "Monitor and optimize consumption",
+    "patent_claims": "Driver behavior scoring",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A traffic prediction system for city planning",
+    "patent_title": "Urban Traffic Forecasting",
+    "patent_abstract": "Deep learning traffic prediction",
+    "patent_claims": "Integration with traffic lights",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A traffic prediction system for city planning",
+    "patent_title": "Fleet Maintenance Predictor",
+    "patent_abstract": "Detects component wear patterns",
+    "patent_claims": "Optimizes maintenance schedule",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A traffic prediction system for city planning",
+    "patent_title": "Dynamic Ride-Sharing Platform",
+    "patent_abstract": "Adjusts prices based on demand",
+    "patent_claims": "Real-time matching algorithm",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A traffic prediction system for city planning",
+    "patent_title": "V2X Communication Protocol",
+    "patent_abstract": "Vehicle-to-road infrastructure messaging",
+    "patent_claims": "Collision avoidance alerts",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A traffic prediction system for city planning",
+    "patent_title": "Drone Delivery Router",
+    "patent_abstract": "Plans optimal delivery sequences",
+    "patent_claims": "Weather-aware path planning",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A traffic prediction system for city planning",
+    "patent_title": "Fuel Economy Tracking System",
+    "patent_abstract": "Monitor and optimize consumption",
+    "patent_claims": "Driver behavior scoring",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A traffic prediction system for city planning",
+    "patent_title": "Real-time Route Optimization Engine",
+    "patent_abstract": "Calculates fastest paths dynamically",
+    "patent_claims": "Crowd-sourced traffic data",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A fleet management system with predictive maintenance",
+    "patent_title": "Fleet Maintenance Predictor",
+    "patent_abstract": "Detects component wear patterns",
+    "patent_claims": "Optimizes maintenance schedule",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A fleet management system with predictive maintenance",
+    "patent_title": "Dynamic Ride-Sharing Platform",
+    "patent_abstract": "Adjusts prices based on demand",
+    "patent_claims": "Real-time matching algorithm",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A fleet management system with predictive maintenance",
+    "patent_title": "V2X Communication Protocol",
+    "patent_abstract": "Vehicle-to-road infrastructure messaging",
+    "patent_claims": "Collision avoidance alerts",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A fleet management system with predictive maintenance",
+    "patent_title": "Drone Delivery Router",
+    "patent_abstract": "Plans optimal delivery sequences",
+    "patent_claims": "Weather-aware path planning",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A fleet management system with predictive maintenance",
+    "patent_title": "Fuel Economy Tracking System",
+    "patent_abstract": "Monitor and optimize consumption",
+    "patent_claims": "Driver behavior scoring",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A fleet management system with predictive maintenance",
+    "patent_title": "Real-time Route Optimization Engine",
+    "patent_abstract": "Calculates fastest paths dynamically",
+    "patent_claims": "Crowd-sourced traffic data",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A ride-sharing app with dynamic pricing",
+    "patent_title": "Dynamic Ride-Sharing Platform",
+    "patent_abstract": "Adjusts prices based on demand",
+    "patent_claims": "Real-time matching algorithm",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A ride-sharing app with dynamic pricing",
+    "patent_title": "V2X Communication Protocol",
+    "patent_abstract": "Vehicle-to-road infrastructure messaging",
+    "patent_claims": "Collision avoidance alerts",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A ride-sharing app with dynamic pricing",
+    "patent_title": "Drone Delivery Router",
+    "patent_abstract": "Plans optimal delivery sequences",
+    "patent_claims": "Weather-aware path planning",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A ride-sharing app with dynamic pricing",
+    "patent_title": "Fuel Economy Tracking System",
+    "patent_abstract": "Monitor and optimize consumption",
+    "patent_claims": "Driver behavior scoring",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A ride-sharing app with dynamic pricing",
+    "patent_title": "Real-time Route Optimization Engine",
+    "patent_abstract": "Calculates fastest paths dynamically",
+    "patent_claims": "Crowd-sourced traffic data",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A vehicle-to-infrastructure communication system",
+    "patent_title": "V2X Communication Protocol",
+    "patent_abstract": "Vehicle-to-road infrastructure messaging",
+    "patent_claims": "Collision avoidance alerts",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A vehicle-to-infrastructure communication system",
+    "patent_title": "Drone Delivery Router",
+    "patent_abstract": "Plans optimal delivery sequences",
+    "patent_claims": "Weather-aware path planning",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A vehicle-to-infrastructure communication system",
+    "patent_title": "Fuel Economy Tracking System",
+    "patent_abstract": "Monitor and optimize consumption",
+    "patent_claims": "Driver behavior scoring",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A vehicle-to-infrastructure communication system",
+    "patent_title": "Real-time Route Optimization Engine",
+    "patent_abstract": "Calculates fastest paths dynamically",
+    "patent_claims": "Crowd-sourced traffic data",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A vehicle-to-infrastructure communication system",
+    "patent_title": "Autonomous Campus Shuttle",
+    "patent_abstract": "Self-driving vehicle for defined routes",
+    "patent_claims": "Passenger safety features",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A vehicle-to-infrastructure communication system",
+    "patent_title": "Computer Vision Parking System",
+    "patent_abstract": "Detects available spots automatically",
+    "patent_claims": "Mobile app integration",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A drone delivery coordination platform",
+    "patent_title": "Drone Delivery Router",
+    "patent_abstract": "Plans optimal delivery sequences",
+    "patent_claims": "Weather-aware path planning",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A drone delivery coordination platform",
+    "patent_title": "Fuel Economy Tracking System",
+    "patent_abstract": "Monitor and optimize consumption",
+    "patent_claims": "Driver behavior scoring",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A drone delivery coordination platform",
+    "patent_title": "Real-time Route Optimization Engine",
+    "patent_abstract": "Calculates fastest paths dynamically",
+    "patent_claims": "Crowd-sourced traffic data",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A drone delivery coordination platform",
+    "patent_title": "Autonomous Campus Shuttle",
+    "patent_abstract": "Self-driving vehicle for defined routes",
+    "patent_claims": "Passenger safety features",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A drone delivery coordination platform",
+    "patent_title": "Computer Vision Parking System",
+    "patent_abstract": "Detects available spots automatically",
+    "patent_claims": "Mobile app integration",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A fuel efficiency tracking system for trucks",
+    "patent_title": "Fuel Economy Tracking System",
+    "patent_abstract": "Monitor and optimize consumption",
+    "patent_claims": "Driver behavior scoring",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A fuel efficiency tracking system for trucks",
+    "patent_title": "Real-time Route Optimization Engine",
+    "patent_abstract": "Calculates fastest paths dynamically",
+    "patent_claims": "Crowd-sourced traffic data",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A fuel efficiency tracking system for trucks",
+    "patent_title": "Autonomous Campus Shuttle",
+    "patent_abstract": "Self-driving vehicle for defined routes",
+    "patent_claims": "Passenger safety features",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A fuel efficiency tracking system for trucks",
+    "patent_title": "Computer Vision Parking System",
+    "patent_abstract": "Detects available spots automatically",
+    "patent_claims": "Mobile app integration",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A fuel efficiency tracking system for trucks",
+    "patent_title": "EV Battery Health Monitor",
+    "patent_abstract": "Predicts remaining battery life",
+    "patent_claims": "Optimization recommendations",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A crop disease detection system using drone imagery",
+    "patent_title": "Drone-Based Crop Analysis",
+    "patent_abstract": "Detects disease and nutrient deficiency",
+    "patent_claims": "Real-time reporting to farmer",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A crop disease detection system using drone imagery",
+    "patent_title": "Soil Composition Analyzer",
+    "patent_abstract": "Measures pH, moisture, nutrients",
+    "patent_claims": "Recommendation engine",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A crop disease detection system using drone imagery",
+    "patent_title": "Climate-Based Yield Forecaster",
+    "patent_abstract": "Predicts harvest based on weather",
+    "patent_claims": "Historical data analysis",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A crop disease detection system using drone imagery",
+    "patent_title": "Variable Rate Fertilizer Application",
+    "patent_abstract": "Adjusts fertilizer per zone",
+    "patent_claims": "GPS-guided spreader",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A crop disease detection system using drone imagery",
+    "patent_title": "Pest Population Monitor",
+    "patent_abstract": "Tracks pest levels from traps",
+    "patent_claims": "Alerts farmer for intervention",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A crop disease detection system using drone imagery",
+    "patent_title": "Livestock Health Tracker",
+    "patent_abstract": "Monitors vitals and location of animals",
+    "patent_claims": "Alerts on health issues",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A crop disease detection system using drone imagery",
+    "patent_title": "Automated Greenhouse System",
+    "patent_abstract": "Controls temperature, humidity, light",
+    "patent_claims": "Sensor-driven adjustments",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A soil health monitoring platform",
+    "patent_title": "Soil Composition Analyzer",
+    "patent_abstract": "Measures pH, moisture, nutrients",
+    "patent_claims": "Recommendation engine",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A soil health monitoring platform",
+    "patent_title": "Climate-Based Yield Forecaster",
+    "patent_abstract": "Predicts harvest based on weather",
+    "patent_claims": "Historical data analysis",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A soil health monitoring platform",
+    "patent_title": "Variable Rate Fertilizer Application",
+    "patent_abstract": "Adjusts fertilizer per zone",
+    "patent_claims": "GPS-guided spreader",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A soil health monitoring platform",
+    "patent_title": "Pest Population Monitor",
+    "patent_abstract": "Tracks pest levels from traps",
+    "patent_claims": "Alerts farmer for intervention",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A soil health monitoring platform",
+    "patent_title": "Livestock Health Tracker",
+    "patent_abstract": "Monitors vitals and location of animals",
+    "patent_claims": "Alerts on health issues",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A soil health monitoring platform",
+    "patent_title": "Automated Greenhouse System",
+    "patent_abstract": "Controls temperature, humidity, light",
+    "patent_claims": "Sensor-driven adjustments",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A soil health monitoring platform",
+    "patent_title": "Agricultural Blockchain Ledger",
+    "patent_abstract": "Records supply chain from farm to store",
+    "patent_claims": "Transparency and verification",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A weather-based yield prediction model",
+    "patent_title": "Climate-Based Yield Forecaster",
+    "patent_abstract": "Predicts harvest based on weather",
+    "patent_claims": "Historical data analysis",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A weather-based yield prediction model",
+    "patent_title": "Variable Rate Fertilizer Application",
+    "patent_abstract": "Adjusts fertilizer per zone",
+    "patent_claims": "GPS-guided spreader",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A weather-based yield prediction model",
+    "patent_title": "Pest Population Monitor",
+    "patent_abstract": "Tracks pest levels from traps",
+    "patent_claims": "Alerts farmer for intervention",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A weather-based yield prediction model",
+    "patent_title": "Livestock Health Tracker",
+    "patent_abstract": "Monitors vitals and location of animals",
+    "patent_claims": "Alerts on health issues",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A weather-based yield prediction model",
+    "patent_title": "Automated Greenhouse System",
+    "patent_abstract": "Controls temperature, humidity, light",
+    "patent_claims": "Sensor-driven adjustments",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A weather-based yield prediction model",
+    "patent_title": "Agricultural Blockchain Ledger",
+    "patent_abstract": "Records supply chain from farm to store",
+    "patent_claims": "Transparency and verification",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A precision fertilizer application system",
+    "patent_title": "Variable Rate Fertilizer Application",
+    "patent_abstract": "Adjusts fertilizer per zone",
+    "patent_claims": "GPS-guided spreader",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A precision fertilizer application system",
+    "patent_title": "Pest Population Monitor",
+    "patent_abstract": "Tracks pest levels from traps",
+    "patent_claims": "Alerts farmer for intervention",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A precision fertilizer application system",
+    "patent_title": "Livestock Health Tracker",
+    "patent_abstract": "Monitors vitals and location of animals",
+    "patent_claims": "Alerts on health issues",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A precision fertilizer application system",
+    "patent_title": "Automated Greenhouse System",
+    "patent_abstract": "Controls temperature, humidity, light",
+    "patent_claims": "Sensor-driven adjustments",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A precision fertilizer application system",
+    "patent_title": "Agricultural Blockchain Ledger",
+    "patent_abstract": "Records supply chain from farm to store",
+    "patent_claims": "Transparency and verification",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A pest detection and control system",
+    "patent_title": "Pest Population Monitor",
+    "patent_abstract": "Tracks pest levels from traps",
+    "patent_claims": "Alerts farmer for intervention",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A pest detection and control system",
+    "patent_title": "Livestock Health Tracker",
+    "patent_abstract": "Monitors vitals and location of animals",
+    "patent_claims": "Alerts on health issues",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A pest detection and control system",
+    "patent_title": "Automated Greenhouse System",
+    "patent_abstract": "Controls temperature, humidity, light",
+    "patent_claims": "Sensor-driven adjustments",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A pest detection and control system",
+    "patent_title": "Agricultural Blockchain Ledger",
+    "patent_abstract": "Records supply chain from farm to store",
+    "patent_claims": "Transparency and verification",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A pest detection and control system",
+    "patent_title": "Drip Irrigation Optimizer",
+    "patent_abstract": "Adjusts water based on soil and weather",
+    "patent_claims": "Reduces water waste",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A pest detection and control system",
+    "patent_title": "Crop Rotation Planner",
+    "patent_abstract": "Suggests optimal crop sequences",
+    "patent_claims": "Improves soil health",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A pest detection and control system",
+    "patent_title": "Drone-Based Crop Analysis",
+    "patent_abstract": "Detects disease and nutrient deficiency",
+    "patent_claims": "Real-time reporting to farmer",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A livestock monitoring system using IoT collars",
+    "patent_title": "Livestock Health Tracker",
+    "patent_abstract": "Monitors vitals and location of animals",
+    "patent_claims": "Alerts on health issues",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A livestock monitoring system using IoT collars",
+    "patent_title": "Automated Greenhouse System",
+    "patent_abstract": "Controls temperature, humidity, light",
+    "patent_claims": "Sensor-driven adjustments",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A livestock monitoring system using IoT collars",
+    "patent_title": "Agricultural Blockchain Ledger",
+    "patent_abstract": "Records supply chain from farm to store",
+    "patent_claims": "Transparency and verification",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A livestock monitoring system using IoT collars",
+    "patent_title": "Drip Irrigation Optimizer",
+    "patent_abstract": "Adjusts water based on soil and weather",
+    "patent_claims": "Reduces water waste",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A livestock monitoring system using IoT collars",
+    "patent_title": "Crop Rotation Planner",
+    "patent_abstract": "Suggests optimal crop sequences",
+    "patent_claims": "Improves soil health",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "An automated greenhouse control system",
+    "patent_title": "Automated Greenhouse System",
+    "patent_abstract": "Controls temperature, humidity, light",
+    "patent_claims": "Sensor-driven adjustments",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "An automated greenhouse control system",
+    "patent_title": "Agricultural Blockchain Ledger",
+    "patent_abstract": "Records supply chain from farm to store",
+    "patent_claims": "Transparency and verification",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "An automated greenhouse control system",
+    "patent_title": "Drip Irrigation Optimizer",
+    "patent_abstract": "Adjusts water based on soil and weather",
+    "patent_claims": "Reduces water waste",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "An automated greenhouse control system",
+    "patent_title": "Crop Rotation Planner",
+    "patent_abstract": "Suggests optimal crop sequences",
+    "patent_claims": "Improves soil health",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "An automated greenhouse control system",
+    "patent_title": "Drone-Based Crop Analysis",
+    "patent_abstract": "Detects disease and nutrient deficiency",
+    "patent_claims": "Real-time reporting to farmer",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "An automated greenhouse control system",
+    "patent_title": "Soil Composition Analyzer",
+    "patent_abstract": "Measures pH, moisture, nutrients",
+    "patent_claims": "Recommendation engine",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A farm-to-market traceability system",
+    "patent_title": "Agricultural Blockchain Ledger",
+    "patent_abstract": "Records supply chain from farm to store",
+    "patent_claims": "Transparency and verification",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A farm-to-market traceability system",
+    "patent_title": "Drip Irrigation Optimizer",
+    "patent_abstract": "Adjusts water based on soil and weather",
+    "patent_claims": "Reduces water waste",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A farm-to-market traceability system",
+    "patent_title": "Crop Rotation Planner",
+    "patent_abstract": "Suggests optimal crop sequences",
+    "patent_claims": "Improves soil health",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A farm-to-market traceability system",
+    "patent_title": "Drone-Based Crop Analysis",
+    "patent_abstract": "Detects disease and nutrient deficiency",
+    "patent_claims": "Real-time reporting to farmer",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A farm-to-market traceability system",
+    "patent_title": "Soil Composition Analyzer",
+    "patent_abstract": "Measures pH, moisture, nutrients",
+    "patent_claims": "Recommendation engine",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A farm-to-market traceability system",
+    "patent_title": "Climate-Based Yield Forecaster",
+    "patent_abstract": "Predicts harvest based on weather",
+    "patent_claims": "Historical data analysis",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A farm-to-market traceability system",
+    "patent_title": "Variable Rate Fertilizer Application",
+    "patent_abstract": "Adjusts fertilizer per zone",
+    "patent_claims": "GPS-guided spreader",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A water efficiency optimization platform",
+    "patent_title": "Drip Irrigation Optimizer",
+    "patent_abstract": "Adjusts water based on soil and weather",
+    "patent_claims": "Reduces water waste",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A water efficiency optimization platform",
+    "patent_title": "Crop Rotation Planner",
+    "patent_abstract": "Suggests optimal crop sequences",
+    "patent_claims": "Improves soil health",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A water efficiency optimization platform",
+    "patent_title": "Drone-Based Crop Analysis",
+    "patent_abstract": "Detects disease and nutrient deficiency",
+    "patent_claims": "Real-time reporting to farmer",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A water efficiency optimization platform",
+    "patent_title": "Soil Composition Analyzer",
+    "patent_abstract": "Measures pH, moisture, nutrients",
+    "patent_claims": "Recommendation engine",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A water efficiency optimization platform",
+    "patent_title": "Climate-Based Yield Forecaster",
+    "patent_abstract": "Predicts harvest based on weather",
+    "patent_claims": "Historical data analysis",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A crop rotation recommendation engine",
+    "patent_title": "Crop Rotation Planner",
+    "patent_abstract": "Suggests optimal crop sequences",
+    "patent_claims": "Improves soil health",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A crop rotation recommendation engine",
+    "patent_title": "Drone-Based Crop Analysis",
+    "patent_abstract": "Detects disease and nutrient deficiency",
+    "patent_claims": "Real-time reporting to farmer",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A crop rotation recommendation engine",
+    "patent_title": "Soil Composition Analyzer",
+    "patent_abstract": "Measures pH, moisture, nutrients",
+    "patent_claims": "Recommendation engine",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A crop rotation recommendation engine",
+    "patent_title": "Climate-Based Yield Forecaster",
+    "patent_abstract": "Predicts harvest based on weather",
+    "patent_claims": "Historical data analysis",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A crop rotation recommendation engine",
+    "patent_title": "Variable Rate Fertilizer Application",
+    "patent_abstract": "Adjusts fertilizer per zone",
+    "patent_claims": "GPS-guided spreader",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A crop rotation recommendation engine",
+    "patent_title": "Pest Population Monitor",
+    "patent_abstract": "Tracks pest levels from traps",
+    "patent_claims": "Alerts farmer for intervention",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A predictive maintenance system for factory equipment",
+    "patent_title": "Equipment Failure Predictor",
+    "patent_abstract": "ML-based anomaly detection on sensor data",
+    "patent_claims": "Maintenance scheduling system",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A predictive maintenance system for factory equipment",
+    "patent_title": "Visual Quality Inspection",
+    "patent_abstract": "Computer vision for defect detection",
+    "patent_claims": "99.9% accuracy claims",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A predictive maintenance system for factory equipment",
+    "patent_title": "Production Efficiency Optimizer",
+    "patent_abstract": "Simulates production scenarios",
+    "patent_claims": "Scheduling algorithms",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A predictive maintenance system for factory equipment",
+    "patent_title": "Industrial Energy Monitor",
+    "patent_abstract": "Real-time power consumption tracking",
+    "patent_claims": "Cost and waste reduction",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A predictive maintenance system for factory equipment",
+    "patent_title": "Supply Chain Tracker",
+    "patent_abstract": "End-to-end visibility from supplier to customer",
+    "patent_claims": "Blockchain integration",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A quality control system using computer vision",
+    "patent_title": "Visual Quality Inspection",
+    "patent_abstract": "Computer vision for defect detection",
+    "patent_claims": "99.9% accuracy claims",
+    "true_risk": "High"
+  },
+  {
+    "idea": "A quality control system using computer vision",
+    "patent_title": "Production Efficiency Optimizer",
+    "patent_abstract": "Simulates production scenarios",
+    "patent_claims": "Scheduling algorithms",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A quality control system using computer vision",
+    "patent_title": "Industrial Energy Monitor",
+    "patent_abstract": "Real-time power consumption tracking",
+    "patent_claims": "Cost and waste reduction",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A quality control system using computer vision",
+    "patent_title": "Supply Chain Tracker",
+    "patent_abstract": "End-to-end visibility from supplier to customer",
+    "patent_claims": "Blockchain integration",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A quality control system using computer vision",
+    "patent_title": "Worker Safety Monitor",
+    "patent_abstract": "Tracks PPE usage and compliance",
+    "patent_claims": "Real-time alerts",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A production line optimization algorithm",
+    "patent_title": "Production Efficiency Optimizer",
+    "patent_abstract": "Simulates production scenarios",
+    "patent_claims": "Scheduling algorithms",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A production line optimization algorithm",
+    "patent_title": "Industrial Energy Monitor",
+    "patent_abstract": "Real-time power consumption tracking",
+    "patent_claims": "Cost and waste reduction",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A production line optimization algorithm",
+    "patent_title": "Supply Chain Tracker",
+    "patent_abstract": "End-to-end visibility from supplier to customer",
+    "patent_claims": "Blockchain integration",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A production line optimization algorithm",
+    "patent_title": "Worker Safety Monitor",
+    "patent_abstract": "Tracks PPE usage and compliance",
+    "patent_claims": "Real-time alerts",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A production line optimization algorithm",
+    "patent_title": "Automated Assembly Robot",
+    "patent_abstract": "Adaptive gripping and placement",
+    "patent_claims": "Collaborative human-robot work",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "An energy consumption monitoring system",
+    "patent_title": "Industrial Energy Monitor",
+    "patent_abstract": "Real-time power consumption tracking",
+    "patent_claims": "Cost and waste reduction",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "An energy consumption monitoring system",
+    "patent_title": "Supply Chain Tracker",
+    "patent_abstract": "End-to-end visibility from supplier to customer",
+    "patent_claims": "Blockchain integration",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "An energy consumption monitoring system",
+    "patent_title": "Worker Safety Monitor",
+    "patent_abstract": "Tracks PPE usage and compliance",
+    "patent_claims": "Real-time alerts",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "An energy consumption monitoring system",
+    "patent_title": "Automated Assembly Robot",
+    "patent_abstract": "Adaptive gripping and placement",
+    "patent_claims": "Collaborative human-robot work",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "An energy consumption monitoring system",
+    "patent_title": "Warehouse Inventory System",
+    "patent_abstract": "Real-time stock tracking via RFID",
+    "patent_claims": "Automated reordering",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "An energy consumption monitoring system",
+    "patent_title": "Automated Defect Sorter",
+    "patent_abstract": "Sorts parts by quality grade",
+    "patent_claims": "ML-trained classification",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "An energy consumption monitoring system",
+    "patent_title": "Factory Production Forecaster",
+    "patent_abstract": "Predicts output based on conditions",
+    "patent_claims": "Demand planning",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A supply chain visibility platform",
+    "patent_title": "Supply Chain Tracker",
+    "patent_abstract": "End-to-end visibility from supplier to customer",
+    "patent_claims": "Blockchain integration",
+    "true_risk": "High"
+  },
+  {
+    "idea": "A supply chain visibility platform",
+    "patent_title": "Worker Safety Monitor",
+    "patent_abstract": "Tracks PPE usage and compliance",
+    "patent_claims": "Real-time alerts",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A supply chain visibility platform",
+    "patent_title": "Automated Assembly Robot",
+    "patent_abstract": "Adaptive gripping and placement",
+    "patent_claims": "Collaborative human-robot work",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A supply chain visibility platform",
+    "patent_title": "Warehouse Inventory System",
+    "patent_abstract": "Real-time stock tracking via RFID",
+    "patent_claims": "Automated reordering",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A supply chain visibility platform",
+    "patent_title": "Automated Defect Sorter",
+    "patent_abstract": "Sorts parts by quality grade",
+    "patent_claims": "ML-trained classification",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A worker safety monitoring system",
+    "patent_title": "Worker Safety Monitor",
+    "patent_abstract": "Tracks PPE usage and compliance",
+    "patent_claims": "Real-time alerts",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A worker safety monitoring system",
+    "patent_title": "Automated Assembly Robot",
+    "patent_abstract": "Adaptive gripping and placement",
+    "patent_claims": "Collaborative human-robot work",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A worker safety monitoring system",
+    "patent_title": "Warehouse Inventory System",
+    "patent_abstract": "Real-time stock tracking via RFID",
+    "patent_claims": "Automated reordering",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A worker safety monitoring system",
+    "patent_title": "Automated Defect Sorter",
+    "patent_abstract": "Sorts parts by quality grade",
+    "patent_claims": "ML-trained classification",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A worker safety monitoring system",
+    "patent_title": "Factory Production Forecaster",
+    "patent_abstract": "Predicts output based on conditions",
+    "patent_claims": "Demand planning",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A robotic arm for assembly tasks",
+    "patent_title": "Automated Assembly Robot",
+    "patent_abstract": "Adaptive gripping and placement",
+    "patent_claims": "Collaborative human-robot work",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A robotic arm for assembly tasks",
+    "patent_title": "Warehouse Inventory System",
+    "patent_abstract": "Real-time stock tracking via RFID",
+    "patent_claims": "Automated reordering",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A robotic arm for assembly tasks",
+    "patent_title": "Automated Defect Sorter",
+    "patent_abstract": "Sorts parts by quality grade",
+    "patent_claims": "ML-trained classification",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A robotic arm for assembly tasks",
+    "patent_title": "Factory Production Forecaster",
+    "patent_abstract": "Predicts output based on conditions",
+    "patent_claims": "Demand planning",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A robotic arm for assembly tasks",
+    "patent_title": "Equipment Failure Predictor",
+    "patent_abstract": "ML-based anomaly detection on sensor data",
+    "patent_claims": "Maintenance scheduling system",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A robotic arm for assembly tasks",
+    "patent_title": "Visual Quality Inspection",
+    "patent_abstract": "Computer vision for defect detection",
+    "patent_claims": "99.9% accuracy claims",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "An inventory management system",
+    "patent_title": "Warehouse Inventory System",
+    "patent_abstract": "Real-time stock tracking via RFID",
+    "patent_claims": "Automated reordering",
+    "true_risk": "High"
+  },
+  {
+    "idea": "An inventory management system",
+    "patent_title": "Automated Defect Sorter",
+    "patent_abstract": "Sorts parts by quality grade",
+    "patent_claims": "ML-trained classification",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "An inventory management system",
+    "patent_title": "Factory Production Forecaster",
+    "patent_abstract": "Predicts output based on conditions",
+    "patent_claims": "Demand planning",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "An inventory management system",
+    "patent_title": "Equipment Failure Predictor",
+    "patent_abstract": "ML-based anomaly detection on sensor data",
+    "patent_claims": "Maintenance scheduling system",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "An inventory management system",
+    "patent_title": "Visual Quality Inspection",
+    "patent_abstract": "Computer vision for defect detection",
+    "patent_claims": "99.9% accuracy claims",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "An inventory management system",
+    "patent_title": "Production Efficiency Optimizer",
+    "patent_abstract": "Simulates production scenarios",
+    "patent_claims": "Scheduling algorithms",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "An inventory management system",
+    "patent_title": "Industrial Energy Monitor",
+    "patent_abstract": "Real-time power consumption tracking",
+    "patent_claims": "Cost and waste reduction",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A defect detection and sorting system",
+    "patent_title": "Automated Defect Sorter",
+    "patent_abstract": "Sorts parts by quality grade",
+    "patent_claims": "ML-trained classification",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A defect detection and sorting system",
+    "patent_title": "Factory Production Forecaster",
+    "patent_abstract": "Predicts output based on conditions",
+    "patent_claims": "Demand planning",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A defect detection and sorting system",
+    "patent_title": "Equipment Failure Predictor",
+    "patent_abstract": "ML-based anomaly detection on sensor data",
+    "patent_claims": "Maintenance scheduling system",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A defect detection and sorting system",
+    "patent_title": "Visual Quality Inspection",
+    "patent_abstract": "Computer vision for defect detection",
+    "patent_claims": "99.9% accuracy claims",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A defect detection and sorting system",
+    "patent_title": "Production Efficiency Optimizer",
+    "patent_abstract": "Simulates production scenarios",
+    "patent_claims": "Scheduling algorithms",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A defect detection and sorting system",
+    "patent_title": "Industrial Energy Monitor",
+    "patent_abstract": "Real-time power consumption tracking",
+    "patent_claims": "Cost and waste reduction",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A defect detection and sorting system",
+    "patent_title": "Supply Chain Tracker",
+    "patent_abstract": "End-to-end visibility from supplier to customer",
+    "patent_claims": "Blockchain integration",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A production forecasting tool",
+    "patent_title": "Factory Production Forecaster",
+    "patent_abstract": "Predicts output based on conditions",
+    "patent_claims": "Demand planning",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A production forecasting tool",
+    "patent_title": "Equipment Failure Predictor",
+    "patent_abstract": "ML-based anomaly detection on sensor data",
+    "patent_claims": "Maintenance scheduling system",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A production forecasting tool",
+    "patent_title": "Visual Quality Inspection",
+    "patent_abstract": "Computer vision for defect detection",
+    "patent_claims": "99.9% accuracy claims",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A production forecasting tool",
+    "patent_title": "Production Efficiency Optimizer",
+    "patent_abstract": "Simulates production scenarios",
+    "patent_claims": "Scheduling algorithms",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A production forecasting tool",
+    "patent_title": "Industrial Energy Monitor",
+    "patent_abstract": "Real-time power consumption tracking",
+    "patent_claims": "Cost and waste reduction",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A production forecasting tool",
+    "patent_title": "Supply Chain Tracker",
+    "patent_abstract": "End-to-end visibility from supplier to customer",
+    "patent_claims": "Blockchain integration",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A fraud detection system for credit cards",
+    "patent_title": "Credit Card Fraud Detector",
+    "patent_abstract": "Real-time anomaly detection",
+    "patent_claims": "Multi-factor verification",
+    "true_risk": "High"
+  },
+  {
+    "idea": "A fraud detection system for credit cards",
+    "patent_title": "Portfolio Rebalancer",
+    "patent_abstract": "Optimizes asset allocation",
+    "patent_claims": "Tax-aware recommendations",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A fraud detection system for credit cards",
+    "patent_title": "Personal Finance AI",
+    "patent_abstract": "Tracks spending and budgets",
+    "patent_claims": "Savings goal optimization",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A fraud detection system for credit cards",
+    "patent_title": "Loan Risk Assessor",
+    "patent_abstract": "Evaluates creditworthiness",
+    "patent_claims": "Automated decision making",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A fraud detection system for credit cards",
+    "patent_title": "Crypto Price Forecaster",
+    "patent_abstract": "Time-series prediction models",
+    "patent_claims": "Real-time alerts",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "An investment portfolio optimization tool",
+    "patent_title": "Portfolio Rebalancer",
+    "patent_abstract": "Optimizes asset allocation",
+    "patent_claims": "Tax-aware recommendations",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "An investment portfolio optimization tool",
+    "patent_title": "Personal Finance AI",
+    "patent_abstract": "Tracks spending and budgets",
+    "patent_claims": "Savings goal optimization",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "An investment portfolio optimization tool",
+    "patent_title": "Loan Risk Assessor",
+    "patent_abstract": "Evaluates creditworthiness",
+    "patent_claims": "Automated decision making",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "An investment portfolio optimization tool",
+    "patent_title": "Crypto Price Forecaster",
+    "patent_abstract": "Time-series prediction models",
+    "patent_claims": "Real-time alerts",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "An investment portfolio optimization tool",
+    "patent_title": "Market Sentiment Analyzer",
+    "patent_abstract": "Analyzes news and social media",
+    "patent_claims": "Predicts market movements",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "An investment portfolio optimization tool",
+    "patent_title": "Retirement Planning Engine",
+    "patent_abstract": "Calculates required savings",
+    "patent_claims": "Scenario-based planning",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A personal finance assistant using AI",
+    "patent_title": "Personal Finance AI",
+    "patent_abstract": "Tracks spending and budgets",
+    "patent_claims": "Savings goal optimization",
+    "true_risk": "High"
+  },
+  {
+    "idea": "A personal finance assistant using AI",
+    "patent_title": "Loan Risk Assessor",
+    "patent_abstract": "Evaluates creditworthiness",
+    "patent_claims": "Automated decision making",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A personal finance assistant using AI",
+    "patent_title": "Crypto Price Forecaster",
+    "patent_abstract": "Time-series prediction models",
+    "patent_claims": "Real-time alerts",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A personal finance assistant using AI",
+    "patent_title": "Market Sentiment Analyzer",
+    "patent_abstract": "Analyzes news and social media",
+    "patent_claims": "Predicts market movements",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A personal finance assistant using AI",
+    "patent_title": "Retirement Planning Engine",
+    "patent_abstract": "Calculates required savings",
+    "patent_claims": "Scenario-based planning",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A personal finance assistant using AI",
+    "patent_title": "Peer Lending Platform",
+    "patent_abstract": "Connects borrowers and lenders",
+    "patent_claims": "Risk assessment model",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A personal finance assistant using AI",
+    "patent_title": "Smart Transaction Categorizer",
+    "patent_abstract": "Automatically classifies transactions",
+    "patent_claims": "Machine learning classifier",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A loan approval system with ML",
+    "patent_title": "Loan Risk Assessor",
+    "patent_abstract": "Evaluates creditworthiness",
+    "patent_claims": "Automated decision making",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A loan approval system with ML",
+    "patent_title": "Crypto Price Forecaster",
+    "patent_abstract": "Time-series prediction models",
+    "patent_claims": "Real-time alerts",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A loan approval system with ML",
+    "patent_title": "Market Sentiment Analyzer",
+    "patent_abstract": "Analyzes news and social media",
+    "patent_claims": "Predicts market movements",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A loan approval system with ML",
+    "patent_title": "Retirement Planning Engine",
+    "patent_abstract": "Calculates required savings",
+    "patent_claims": "Scenario-based planning",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A loan approval system with ML",
+    "patent_title": "Peer Lending Platform",
+    "patent_abstract": "Connects borrowers and lenders",
+    "patent_claims": "Risk assessment model",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A loan approval system with ML",
+    "patent_title": "Smart Transaction Categorizer",
+    "patent_abstract": "Automatically classifies transactions",
+    "patent_claims": "Machine learning classifier",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A cryptocurrency price prediction model",
+    "patent_title": "Crypto Price Forecaster",
+    "patent_abstract": "Time-series prediction models",
+    "patent_claims": "Real-time alerts",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A cryptocurrency price prediction model",
+    "patent_title": "Market Sentiment Analyzer",
+    "patent_abstract": "Analyzes news and social media",
+    "patent_claims": "Predicts market movements",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A cryptocurrency price prediction model",
+    "patent_title": "Retirement Planning Engine",
+    "patent_abstract": "Calculates required savings",
+    "patent_claims": "Scenario-based planning",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A cryptocurrency price prediction model",
+    "patent_title": "Peer Lending Platform",
+    "patent_abstract": "Connects borrowers and lenders",
+    "patent_claims": "Risk assessment model",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A cryptocurrency price prediction model",
+    "patent_title": "Smart Transaction Categorizer",
+    "patent_abstract": "Automatically classifies transactions",
+    "patent_claims": "Machine learning classifier",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A cryptocurrency price prediction model",
+    "patent_title": "Adaptive Budgeting System",
+    "patent_abstract": "Learns spending patterns",
+    "patent_claims": "Provides recommendations",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A stock market sentiment analyzer",
+    "patent_title": "Market Sentiment Analyzer",
+    "patent_abstract": "Analyzes news and social media",
+    "patent_claims": "Predicts market movements",
+    "true_risk": "High"
+  },
+  {
+    "idea": "A stock market sentiment analyzer",
+    "patent_title": "Retirement Planning Engine",
+    "patent_abstract": "Calculates required savings",
+    "patent_claims": "Scenario-based planning",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A stock market sentiment analyzer",
+    "patent_title": "Peer Lending Platform",
+    "patent_abstract": "Connects borrowers and lenders",
+    "patent_claims": "Risk assessment model",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A stock market sentiment analyzer",
+    "patent_title": "Smart Transaction Categorizer",
+    "patent_abstract": "Automatically classifies transactions",
+    "patent_claims": "Machine learning classifier",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A stock market sentiment analyzer",
+    "patent_title": "Adaptive Budgeting System",
+    "patent_abstract": "Learns spending patterns",
+    "patent_claims": "Provides recommendations",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A robo-advisor for retirement planning",
+    "patent_title": "Retirement Planning Engine",
+    "patent_abstract": "Calculates required savings",
+    "patent_claims": "Scenario-based planning",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A robo-advisor for retirement planning",
+    "patent_title": "Peer Lending Platform",
+    "patent_abstract": "Connects borrowers and lenders",
+    "patent_claims": "Risk assessment model",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A robo-advisor for retirement planning",
+    "patent_title": "Smart Transaction Categorizer",
+    "patent_abstract": "Automatically classifies transactions",
+    "patent_claims": "Machine learning classifier",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A robo-advisor for retirement planning",
+    "patent_title": "Adaptive Budgeting System",
+    "patent_abstract": "Learns spending patterns",
+    "patent_claims": "Provides recommendations",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A robo-advisor for retirement planning",
+    "patent_title": "Credit Card Fraud Detector",
+    "patent_abstract": "Real-time anomaly detection",
+    "patent_claims": "Multi-factor verification",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A peer-to-peer lending platform",
+    "patent_title": "Peer Lending Platform",
+    "patent_abstract": "Connects borrowers and lenders",
+    "patent_claims": "Risk assessment model",
+    "true_risk": "High"
+  },
+  {
+    "idea": "A peer-to-peer lending platform",
+    "patent_title": "Smart Transaction Categorizer",
+    "patent_abstract": "Automatically classifies transactions",
+    "patent_claims": "Machine learning classifier",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A peer-to-peer lending platform",
+    "patent_title": "Adaptive Budgeting System",
+    "patent_abstract": "Learns spending patterns",
+    "patent_claims": "Provides recommendations",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A peer-to-peer lending platform",
+    "patent_title": "Credit Card Fraud Detector",
+    "patent_abstract": "Real-time anomaly detection",
+    "patent_claims": "Multi-factor verification",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A peer-to-peer lending platform",
+    "patent_title": "Portfolio Rebalancer",
+    "patent_abstract": "Optimizes asset allocation",
+    "patent_claims": "Tax-aware recommendations",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A peer-to-peer lending platform",
+    "patent_title": "Personal Finance AI",
+    "patent_abstract": "Tracks spending and budgets",
+    "patent_claims": "Savings goal optimization",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A transaction categorization system",
+    "patent_title": "Smart Transaction Categorizer",
+    "patent_abstract": "Automatically classifies transactions",
+    "patent_claims": "Machine learning classifier",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A transaction categorization system",
+    "patent_title": "Adaptive Budgeting System",
+    "patent_abstract": "Learns spending patterns",
+    "patent_claims": "Provides recommendations",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A transaction categorization system",
+    "patent_title": "Credit Card Fraud Detector",
+    "patent_abstract": "Real-time anomaly detection",
+    "patent_claims": "Multi-factor verification",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A transaction categorization system",
+    "patent_title": "Portfolio Rebalancer",
+    "patent_abstract": "Optimizes asset allocation",
+    "patent_claims": "Tax-aware recommendations",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A transaction categorization system",
+    "patent_title": "Personal Finance AI",
+    "patent_abstract": "Tracks spending and budgets",
+    "patent_claims": "Savings goal optimization",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A transaction categorization system",
+    "patent_title": "Loan Risk Assessor",
+    "patent_abstract": "Evaluates creditworthiness",
+    "patent_claims": "Automated decision making",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A transaction categorization system",
+    "patent_title": "Crypto Price Forecaster",
+    "patent_abstract": "Time-series prediction models",
+    "patent_claims": "Real-time alerts",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A budgeting assistant with spending predictions",
+    "patent_title": "Adaptive Budgeting System",
+    "patent_abstract": "Learns spending patterns",
+    "patent_claims": "Provides recommendations",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A budgeting assistant with spending predictions",
+    "patent_title": "Credit Card Fraud Detector",
+    "patent_abstract": "Real-time anomaly detection",
+    "patent_claims": "Multi-factor verification",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A budgeting assistant with spending predictions",
+    "patent_title": "Portfolio Rebalancer",
+    "patent_abstract": "Optimizes asset allocation",
+    "patent_claims": "Tax-aware recommendations",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A budgeting assistant with spending predictions",
+    "patent_title": "Personal Finance AI",
+    "patent_abstract": "Tracks spending and budgets",
+    "patent_claims": "Savings goal optimization",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A budgeting assistant with spending predictions",
+    "patent_title": "Loan Risk Assessor",
+    "patent_abstract": "Evaluates creditworthiness",
+    "patent_claims": "Automated decision making",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A budgeting assistant with spending predictions",
+    "patent_title": "Crypto Price Forecaster",
+    "patent_abstract": "Time-series prediction models",
+    "patent_claims": "Real-time alerts",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A budgeting assistant with spending predictions",
+    "patent_title": "Market Sentiment Analyzer",
+    "patent_abstract": "Analyzes news and social media",
+    "patent_claims": "Predicts market movements",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A personalized learning platform using adaptive algorithms",
+    "patent_title": "Adaptive Learning Engine",
+    "patent_abstract": "Adjusts difficulty based on performance",
+    "patent_claims": "Personalized learning paths",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A personalized learning platform using adaptive algorithms",
+    "patent_title": "AI Tutor System",
+    "patent_abstract": "Provides explanations and problem solving",
+    "patent_claims": "Interactive exercises",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A personalized learning platform using adaptive algorithms",
+    "patent_title": "Automated Essay Grading",
+    "patent_abstract": "Evaluates writing quality and content",
+    "patent_claims": "Rubric-based scoring",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A personalized learning platform using adaptive algorithms",
+    "patent_title": "Student Success Predictor",
+    "patent_abstract": "Identifies at-risk students early",
+    "patent_claims": "Intervention recommendations",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A personalized learning platform using adaptive algorithms",
+    "patent_title": "Plagiarism Detector",
+    "patent_abstract": "Compares against online and offline sources",
+    "patent_claims": "Similarity scoring",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A personalized learning platform using adaptive algorithms",
+    "patent_title": "Classroom Translation",
+    "patent_abstract": "Real-time speech translation",
+    "patent_claims": "Multi-language support",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A personalized learning platform using adaptive algorithms",
+    "patent_title": "Student Engagement Monitor",
+    "patent_abstract": "Tracks attention and participation",
+    "patent_claims": "Alert system for teachers",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A virtual tutor for math and science",
+    "patent_title": "AI Tutor System",
+    "patent_abstract": "Provides explanations and problem solving",
+    "patent_claims": "Interactive exercises",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A virtual tutor for math and science",
+    "patent_title": "Automated Essay Grading",
+    "patent_abstract": "Evaluates writing quality and content",
+    "patent_claims": "Rubric-based scoring",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A virtual tutor for math and science",
+    "patent_title": "Student Success Predictor",
+    "patent_abstract": "Identifies at-risk students early",
+    "patent_claims": "Intervention recommendations",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A virtual tutor for math and science",
+    "patent_title": "Plagiarism Detector",
+    "patent_abstract": "Compares against online and offline sources",
+    "patent_claims": "Similarity scoring",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A virtual tutor for math and science",
+    "patent_title": "Classroom Translation",
+    "patent_abstract": "Real-time speech translation",
+    "patent_claims": "Multi-language support",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A virtual tutor for math and science",
+    "patent_title": "Student Engagement Monitor",
+    "patent_abstract": "Tracks attention and participation",
+    "patent_claims": "Alert system for teachers",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "An automated essay grading system",
+    "patent_title": "Automated Essay Grading",
+    "patent_abstract": "Evaluates writing quality and content",
+    "patent_claims": "Rubric-based scoring",
+    "true_risk": "High"
+  },
+  {
+    "idea": "An automated essay grading system",
+    "patent_title": "Student Success Predictor",
+    "patent_abstract": "Identifies at-risk students early",
+    "patent_claims": "Intervention recommendations",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "An automated essay grading system",
+    "patent_title": "Plagiarism Detector",
+    "patent_abstract": "Compares against online and offline sources",
+    "patent_claims": "Similarity scoring",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "An automated essay grading system",
+    "patent_title": "Classroom Translation",
+    "patent_abstract": "Real-time speech translation",
+    "patent_claims": "Multi-language support",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "An automated essay grading system",
+    "patent_title": "Student Engagement Monitor",
+    "patent_abstract": "Tracks attention and participation",
+    "patent_claims": "Alert system for teachers",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "An automated essay grading system",
+    "patent_title": "Collaborative Learning Platform",
+    "patent_abstract": "Enables group projects and discussions",
+    "patent_claims": "Version control for documents",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A student performance predictor",
+    "patent_title": "Student Success Predictor",
+    "patent_abstract": "Identifies at-risk students early",
+    "patent_claims": "Intervention recommendations",
+    "true_risk": "High"
+  },
+  {
+    "idea": "A student performance predictor",
+    "patent_title": "Plagiarism Detector",
+    "patent_abstract": "Compares against online and offline sources",
+    "patent_claims": "Similarity scoring",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A student performance predictor",
+    "patent_title": "Classroom Translation",
+    "patent_abstract": "Real-time speech translation",
+    "patent_claims": "Multi-language support",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A student performance predictor",
+    "patent_title": "Student Engagement Monitor",
+    "patent_abstract": "Tracks attention and participation",
+    "patent_claims": "Alert system for teachers",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A student performance predictor",
+    "patent_title": "Collaborative Learning Platform",
+    "patent_abstract": "Enables group projects and discussions",
+    "patent_claims": "Version control for documents",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A plagiarism detection tool",
+    "patent_title": "Plagiarism Detector",
+    "patent_abstract": "Compares against online and offline sources",
+    "patent_claims": "Similarity scoring",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A plagiarism detection tool",
+    "patent_title": "Classroom Translation",
+    "patent_abstract": "Real-time speech translation",
+    "patent_claims": "Multi-language support",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A plagiarism detection tool",
+    "patent_title": "Student Engagement Monitor",
+    "patent_abstract": "Tracks attention and participation",
+    "patent_claims": "Alert system for teachers",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A plagiarism detection tool",
+    "patent_title": "Collaborative Learning Platform",
+    "patent_abstract": "Enables group projects and discussions",
+    "patent_claims": "Version control for documents",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A plagiarism detection tool",
+    "patent_title": "Curriculum Optimizer",
+    "patent_abstract": "Suggests courses based on goals",
+    "patent_claims": "Career path mapping",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A plagiarism detection tool",
+    "patent_title": "Skill Assessment Tool",
+    "patent_abstract": "Evaluates competency level",
+    "patent_claims": "Certification readiness check",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A plagiarism detection tool",
+    "patent_title": "Adaptive Learning Engine",
+    "patent_abstract": "Adjusts difficulty based on performance",
+    "patent_claims": "Personalized learning paths",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A real-time language translation for classrooms",
+    "patent_title": "Classroom Translation",
+    "patent_abstract": "Real-time speech translation",
+    "patent_claims": "Multi-language support",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A real-time language translation for classrooms",
+    "patent_title": "Student Engagement Monitor",
+    "patent_abstract": "Tracks attention and participation",
+    "patent_claims": "Alert system for teachers",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A real-time language translation for classrooms",
+    "patent_title": "Collaborative Learning Platform",
+    "patent_abstract": "Enables group projects and discussions",
+    "patent_claims": "Version control for documents",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A real-time language translation for classrooms",
+    "patent_title": "Curriculum Optimizer",
+    "patent_abstract": "Suggests courses based on goals",
+    "patent_claims": "Career path mapping",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A real-time language translation for classrooms",
+    "patent_title": "Skill Assessment Tool",
+    "patent_abstract": "Evaluates competency level",
+    "patent_claims": "Certification readiness check",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A student engagement monitoring system",
+    "patent_title": "Student Engagement Monitor",
+    "patent_abstract": "Tracks attention and participation",
+    "patent_claims": "Alert system for teachers",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A student engagement monitoring system",
+    "patent_title": "Collaborative Learning Platform",
+    "patent_abstract": "Enables group projects and discussions",
+    "patent_claims": "Version control for documents",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A student engagement monitoring system",
+    "patent_title": "Curriculum Optimizer",
+    "patent_abstract": "Suggests courses based on goals",
+    "patent_claims": "Career path mapping",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A student engagement monitoring system",
+    "patent_title": "Skill Assessment Tool",
+    "patent_abstract": "Evaluates competency level",
+    "patent_claims": "Certification readiness check",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A student engagement monitoring system",
+    "patent_title": "Adaptive Learning Engine",
+    "patent_abstract": "Adjusts difficulty based on performance",
+    "patent_claims": "Personalized learning paths",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A student engagement monitoring system",
+    "patent_title": "AI Tutor System",
+    "patent_abstract": "Provides explanations and problem solving",
+    "patent_claims": "Interactive exercises",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A student engagement monitoring system",
+    "patent_title": "Automated Essay Grading",
+    "patent_abstract": "Evaluates writing quality and content",
+    "patent_claims": "Rubric-based scoring",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A collaborative learning platform",
+    "patent_title": "Collaborative Learning Platform",
+    "patent_abstract": "Enables group projects and discussions",
+    "patent_claims": "Version control for documents",
+    "true_risk": "High"
+  },
+  {
+    "idea": "A collaborative learning platform",
+    "patent_title": "Curriculum Optimizer",
+    "patent_abstract": "Suggests courses based on goals",
+    "patent_claims": "Career path mapping",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A collaborative learning platform",
+    "patent_title": "Skill Assessment Tool",
+    "patent_abstract": "Evaluates competency level",
+    "patent_claims": "Certification readiness check",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A collaborative learning platform",
+    "patent_title": "Adaptive Learning Engine",
+    "patent_abstract": "Adjusts difficulty based on performance",
+    "patent_claims": "Personalized learning paths",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A collaborative learning platform",
+    "patent_title": "AI Tutor System",
+    "patent_abstract": "Provides explanations and problem solving",
+    "patent_claims": "Interactive exercises",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A curriculum recommendation engine",
+    "patent_title": "Curriculum Optimizer",
+    "patent_abstract": "Suggests courses based on goals",
+    "patent_claims": "Career path mapping",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A curriculum recommendation engine",
+    "patent_title": "Skill Assessment Tool",
+    "patent_abstract": "Evaluates competency level",
+    "patent_claims": "Certification readiness check",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A curriculum recommendation engine",
+    "patent_title": "Adaptive Learning Engine",
+    "patent_abstract": "Adjusts difficulty based on performance",
+    "patent_claims": "Personalized learning paths",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A curriculum recommendation engine",
+    "patent_title": "AI Tutor System",
+    "patent_abstract": "Provides explanations and problem solving",
+    "patent_claims": "Interactive exercises",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A curriculum recommendation engine",
+    "patent_title": "Automated Essay Grading",
+    "patent_abstract": "Evaluates writing quality and content",
+    "patent_claims": "Rubric-based scoring",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A skill gap analysis tool",
+    "patent_title": "Skill Assessment Tool",
+    "patent_abstract": "Evaluates competency level",
+    "patent_claims": "Certification readiness check",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A skill gap analysis tool",
+    "patent_title": "Adaptive Learning Engine",
+    "patent_abstract": "Adjusts difficulty based on performance",
+    "patent_claims": "Personalized learning paths",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A skill gap analysis tool",
+    "patent_title": "AI Tutor System",
+    "patent_abstract": "Provides explanations and problem solving",
+    "patent_claims": "Interactive exercises",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A skill gap analysis tool",
+    "patent_title": "Automated Essay Grading",
+    "patent_abstract": "Evaluates writing quality and content",
+    "patent_claims": "Rubric-based scoring",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A skill gap analysis tool",
+    "patent_title": "Student Success Predictor",
+    "patent_abstract": "Identifies at-risk students early",
+    "patent_claims": "Intervention recommendations",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A smart fridge that suggests recipes based on current contents",
+    "patent_title": "Time-of-Use Energy Optimization Interface",
+    "patent_abstract": "Recommends appliance use during low-cost periods",
+    "patent_claims": "User guidance for energy consumption scheduling",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A sleep tracker that wakes users during light sleep phases",
+    "patent_title": "Adaptive Voice-Focused Acoustic Suppression",
+    "patent_abstract": "Reduces ambient noise while preserving speech",
+    "patent_claims": "Voice-sensitive noise cancellation in headphones",
+    "true_risk": "Low"
+  },
+  {
+    "idea": "A chatbot that helps users book flights and hotels in one conversation",
+    "patent_title": "Location-Based Self Check-In System",
+    "patent_abstract": "Detects guest arrival and provides room access",
+    "patent_claims": "Automatic check-in based on guest location",
+    "true_risk": "High"
+  },
+  {
+    "idea": "A sports analytics tool that recommends training drills",
+    "patent_title": "Biometric Payment Authorization",
+    "patent_abstract": "Uses fingerprint recognition to unlock payments",
+    "patent_claims": "Secure biometric transaction approval",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A smart thermostat that learns homeowner temperature preferences",
+    "patent_title": "Automated Barcode-Guided Picking Robot",
+    "patent_abstract": "Identifies and fetches inventory using scanned labels",
+    "patent_claims": "Robotic selection of SKUs via barcode reading",
+    "true_risk": "High"
+  },
+  {
+    "idea": "A restaurant app that suggests menu items based on past orders",
+    "patent_title": "Automated Delay Claim Processing System",
+    "patent_abstract": "Submits insurance claims when travel disruptions occur",
+    "patent_claims": "Claims automation triggered by delay data",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A wearable fitness tracker that detects unusual heart rhythms",
+    "patent_title": "Arrhythmia Detection Wearable Device",
+    "patent_abstract": "Monitors heart rhythm and alerts on anomalies",
+    "patent_claims": "Wearable cardiac monitoring with irregular heartbeat detection",
+    "true_risk": "High"
+  },
+  {
+    "idea": "A parking app that reserves spaces with real-time availability",
+    "patent_title": "Recipe-Based Shopping List Generator",
+    "patent_abstract": "Builds ingredient lists from selected meals",
+    "patent_claims": "Grocery list creation linked to recipes",
+    "true_risk": "Medium"
+  },
+  {
+    "idea": "A hospital tracking system that uses RFID tags for patient location",
+    "patent_title": "Behavioral Transaction Fraud Analytics",
+    "patent_abstract": "Identifies unusual spending behavior for fraud alerts",
+    "patent_claims": "Pattern-based fraud detection in payments",
+    "true_risk": "High"
+  }
+]

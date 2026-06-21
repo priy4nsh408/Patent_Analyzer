@@ -12,5 +12,8 @@ OLLAMA_URL = os.getenv("OLLAMA_URL")
 OLLAMA_MODEL = os.getenv("OLLAMA_MODEL")
 
 TOP_K = int(os.getenv("TOP_K_PATENTS", 3))
-HIGH_THRESHOLD = int(os.getenv("SIMILARITY_THRESHOLD_HIGH", 75))
-MEDIUM_THRESHOLD = int(os.getenv("SIMILARITY_THRESHOLD_MEDIUM", 40))
+# Default prototype model. all-MiniLM-L12-v2 offers higher accuracy on the current dataset
+# while remaining lightweight enough for CPU-based evaluation.
+EMBEDDING_MODEL_NAME = os.getenv("EMBEDDING_MODEL_NAME", "all-MiniLM-L12-v2")
+HIGH_THRESHOLD = int(os.getenv("SIMILARITY_THRESHOLD_HIGH", 80))
+MEDIUM_THRESHOLD = int(os.getenv("SIMILARITY_THRESHOLD_MEDIUM", 50))

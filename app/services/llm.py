@@ -1,5 +1,5 @@
 import requests
-from app.config import OLLAMA_URL, OLLAMA_MODEL
+from app.config import HIGH_THRESHOLD, MEDIUM_THRESHOLD, OLLAMA_URL, OLLAMA_MODEL
 
 
 # 🔥 LIMIT TEXT SIZE (CRITICAL FIX)
@@ -57,32 +57,35 @@ FORMAT:
 ⚠️ Disclaimer:
 """
 
+    if not OLLAMA_URL or not OLLAMA_MODEL:
+        return dynamic_fallback(user_input, patent, score, risk, sim_type)
+
     try:
         response = requests.post(
             OLLAMA_URL,
             json={
                 "model": OLLAMA_MODEL,
                 "prompt": prompt,
-                "stream": False
+                "stream": False,
             },
-            timeout=120   # 🔥 Increased timeout
+            timeout=10,
         )
 
         print("LLM STATUS:", response.status_code)
 
         if response.status_code == 200:
             data = response.json()
-            print("LLM RAW:", data)
+            print("LLM RAW:", __import__("json").dumps(data, ensure_ascii=True, indent=2))
 
             llm_response = data.get("response", "").strip()
 
             if llm_response and len(llm_response) > 20:
                 return llm_response
 
-        print("⚠️ Weak LLM response")
+        print("Weak LLM response")
 
     except Exception as e:
-        print("❌ LLM ERROR:", e)
+        print("LLM ERROR:", e)
 
     return dynamic_fallback(user_input, patent, score, risk, sim_type)
 
@@ -112,16 +115,16 @@ Mostly {sim_type.lower()} similarity.
 AI-based analysis.
 """
 
-    elif score <= 75:
+    elif score <= MEDIUM_THRESHOLD:
         return f"""
 🔍 Analysis:
 Moderate overlap exists in concepts.
 
 🔄 Key Differences:
-Implementation differs despite sharend ideas.
+Implementation differs despite shared ideas.
 
 ⚖️ Risk Interpretation:
-MEDIUM risk because 40% < {score}% ≤ 75%.
+MEDIUM risk because score ({score}%) is between {MEDIUM_THRESHOLD}% and {HIGH_THRESHOLD}%.
 
 🧩 Similarity Insight:
 Partial {sim_type.lower()} similarity.
@@ -143,7 +146,7 @@ Strong overlap in functionality.
 Only minor variations exist.
 
 ⚖️ Risk Interpretation:
-HIGH risk because score ({score}%) > 75%.
+HIGH risk because score ({score}%) >= {HIGH_THRESHOLD}%.
 
 🧩 Similarity Insight:
 Strong {sim_type.lower()} similarity.
@@ -152,6 +155,6 @@ Strong {sim_type.lower()} similarity.
 - Redesign core idea
 - Introduce novel features
 
-⚠️ Disclaimer:n
+⚠️ Disclaimer:
 AI-based analysis.
 """ 

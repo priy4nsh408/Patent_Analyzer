@@ -3,3 +3,6 @@ requests
 scikit-learn
 python-dotenv
 beautifulsoup4
+sentence-transformers
+matplotlib
+sentence-transformers

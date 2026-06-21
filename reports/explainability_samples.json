@@ -1,0 +1,77 @@
+[
+  {
+    "idea": "A real-time patient monitoring system using wearable sensors",
+    "true_risk": "Low",
+    "predicted_risk": "Low",
+    "score": 39.9,
+    "quality_score": 100.0,
+    "matched_criteria": {
+      "risk_mentioned": true,
+      "score_mentioned": true,
+      "difference_mentioned": true,
+      "suggestion_mentioned": true,
+      "similarity_mentioned": true
+    },
+    "explanation": "\n🔍 Analysis:\nMinimal overlap between idea and patent.\n\n🔄 Key Differences:\nThe patent focuses on Medication Management Platform, while the idea differs in application.\n\n⚖️ Risk Interpretation:\nLOW risk because score (39.9%) ≤ 40%.\n\n🧩 Similarity Insight:\nMostly conceptual similarity similarity.\n\n💡 Suggestions:\n- Focus on unique features\n- Avoid general overlap\n\n⚠️ Disclaimer:\nAI-based analysis.\n"
+  },
+  {
+    "idea": "A motion-activated security camera system",
+    "true_risk": "Low",
+    "predicted_risk": "Low",
+    "score": 38.31,
+    "quality_score": 100.0,
+    "matched_criteria": {
+      "risk_mentioned": true,
+      "score_mentioned": true,
+      "difference_mentioned": true,
+      "suggestion_mentioned": true,
+      "similarity_mentioned": true
+    },
+    "explanation": "\n🔍 Analysis:\nMinimal overlap between idea and patent.\n\n🔄 Key Differences:\nThe patent focuses on Radar-Based Security System, while the idea differs in application.\n\n⚖️ Risk Interpretation:\nLOW risk because score (38.31%) ≤ 40%.\n\n🧩 Similarity Insight:\nMostly conceptual similarity similarity.\n\n💡 Suggestions:\n- Focus on unique features\n- Avoid general overlap\n\n⚠️ Disclaimer:\nAI-based analysis.\n"
+  },
+  {
+    "idea": "A cryptocurrency price prediction model",
+    "true_risk": "Low",
+    "predicted_risk": "Low",
+    "score": 15.9,
+    "quality_score": 100.0,
+    "matched_criteria": {
+      "risk_mentioned": true,
+      "score_mentioned": true,
+      "difference_mentioned": true,
+      "suggestion_mentioned": true,
+      "similarity_mentioned": true
+    },
+    "explanation": "\n🔍 Analysis:\nMinimal overlap between idea and patent.\n\n🔄 Key Differences:\nThe patent focuses on Retirement Planning Engine, while the idea differs in application.\n\n⚖️ Risk Interpretation:\nLOW risk because score (15.9%) ≤ 40%.\n\n🧩 Similarity Insight:\nMostly conceptual similarity similarity.\n\n💡 Suggestions:\n- Focus on unique features\n- Avoid general overlap\n\n⚠️ Disclaimer:\nAI-based analysis.\n"
+  },
+  {
+    "idea": "A vehicle battery diagnostic tool",
+    "true_risk": "Low",
+    "predicted_risk": "Low",
+    "score": 29.88,
+    "quality_score": 100.0,
+    "matched_criteria": {
+      "risk_mentioned": true,
+      "score_mentioned": true,
+      "difference_mentioned": true,
+      "suggestion_mentioned": true,
+      "similarity_mentioned": true
+    },
+    "explanation": "\n🔍 Analysis:\nMinimal overlap between idea and patent.\n\n🔄 Key Differences:\nThe patent focuses on Fuel Economy Tracking System, while the idea differs in application.\n\n⚖️ Risk Interpretation:\nLOW risk because score (29.88%) ≤ 40%.\n\n🧩 Similarity Insight:\nMostly conceptual similarity similarity.\n\n💡 Suggestions:\n- Focus on unique features\n- Avoid general overlap\n\n⚠️ Disclaimer:\nAI-based analysis.\n"
+  },
+  {
+    "idea": "A loan approval system with ML",
+    "true_risk": "Low",
+    "predicted_risk": "Low",
+    "score": 25.73,
+    "quality_score": 100.0,
+    "matched_criteria": {
+      "risk_mentioned": true,
+      "score_mentioned": true,
+      "difference_mentioned": true,
+      "suggestion_mentioned": true,
+      "similarity_mentioned": true
+    },
+    "explanation": "\n🔍 Analysis:\nMinimal overlap between idea and patent.\n\n🔄 Key Differences:\nThe patent focuses on Smart Transaction Categorizer, while the idea differs in application.\n\n⚖️ Risk Interpretation:\nLOW risk because score (25.73%) ≤ 40%.\n\n🧩 Similarity Insight:\nMostly conceptual similarity similarity.\n\n💡 Suggestions:\n- Focus on unique features\n- Avoid general overlap\n\n⚠️ Disclaimer:\nAI-based analysis.\n"
+  }
+]

@@ -8,6 +8,12 @@ from app.services.similarity import compute_similarity
 from app.services.risk import classify_risk
 from app.services.similarity_type import similarity_type
 from app.services.llm import generate_explanation
+from app.services.metrics import (
+    start_timer, end_timer, record_prediction,
+    get_session_metrics, get_model_metrics, 
+    get_risk_distribution, get_confidence_stats,
+    get_performance_comparison
+)
 
 # 🔹 Page config
 st.set_page_config(
@@ -56,6 +62,9 @@ if st.button("Analyze"):
         st.warning("⚠️ Please enter a valid idea before analyzing.")
         st.stop()
 
+    # 🔄 Start timing
+    start_time = start_timer()
+    
     # 🔄 Fetch
     with st.spinner("🔍 Fetching patents and analyzing..."):
         patents = fetch_patents(user_input)
@@ -70,6 +79,9 @@ if st.button("Analyze"):
         score = compute_similarity(user_input, patent)
         risk = classify_risk(score)
         sim_type = similarity_type(user_input, patent)
+        
+        # 📊 Record metrics
+        record_prediction(score, risk)
 
         results.append((patent, score, risk, sim_type))
 
@@ -83,11 +95,70 @@ if st.button("Analyze"):
         st.warning("⚠️ No sufficiently relevant patents found.")
         st.stop()
 
+    # ⏱️ End timing
+    processing_time = end_timer(start_time)
+
     # 🔥 Best Match
     best_patent, best_score, _, _ = filtered_results[0]
     st.info(f"🏆 Best Match: {best_patent.get('title','No Title')} ({best_score}%)")
 
     st.success(f"✅ Found {len(filtered_results)} relevant patents")
+    
+    # 📊 MODEL ACCURACY & PERFORMANCE METRICS
+    st.markdown("### 📊 Model Accuracy & Performance Metrics")
+    
+    # Get metrics data
+    model_metrics = get_model_metrics()
+    session_metrics = get_session_metrics()
+    perf_comparison = get_performance_comparison()
+    confidence_stats = get_confidence_stats()
+    risk_dist = get_risk_distribution()
+    
+    # 🎯 Main Accuracy Metrics
+    col1, col2, col3, col4 = st.columns(4)
+    col1.metric("📈 Accuracy", f"{model_metrics['accuracy']}%")
+    col2.metric("🎯 Precision", f"{model_metrics['precision']}%")
+    col3.metric("🔍 Recall", f"{model_metrics['recall']}%")
+    col4.metric("📊 F1-Score", f"{model_metrics['f1_score']}")
+    
+    # ⏱️ Processing Performance
+    col1, col2, col3 = st.columns(3)
+    col1.metric("⏱️ Avg Time", f"{session_metrics['avg_processing_time_ms']}ms")
+    col2.metric("🤖 Avg Confidence", f"{session_metrics['avg_model_confidence']}%")
+    col3.metric("📝 Total Analyses", session_metrics['total_analyses'])
+    
+    # 📋 Expandable Sections
+    with st.expander("📋 Detailed Benchmark Comparison"):
+        st.subheader(f"Model Benchmarks ({model_metrics['model_name']})")
+        col1, col2 = st.columns(2)
+        with col1:
+            st.write(f"**Model Name:** {model_metrics['model_name']}")
+            st.write(f"**Model Size:** {model_metrics['model_size_mb']} MB")
+            st.write(f"**Parameters:** {model_metrics['parameters_million']}M")
+        with col2:
+            st.write(f"**Benchmark Accuracy:** {model_metrics['accuracy']}%")
+            st.write(f"**Avg Processing Time:** {model_metrics['avg_processing_time_ms']}ms")
+            st.write(f"**Accuracy Tier:** High-Performance")
+    
+    with st.expander("📊 Confidence Analysis"):
+        st.write(f"**Average Confidence:** {confidence_stats['avg']}%")
+        st.write(f"**Median Confidence:** {confidence_stats['median']}%")
+        st.write(f"**Range:** {confidence_stats['min']}% - {confidence_stats['max']}%")
+        st.write(f"**Predictions Made:** {confidence_stats['total_predictions']}")
+    
+    with st.expander("⚠️ Risk Distribution"):
+        if risk_dist:
+            for risk_level, count in risk_dist.items():
+                st.write(f"**{risk_level} Risk:** {count} patents")
+        else:
+            st.write("No risk data available yet")
+    
+    with st.expander("🚀 Performance vs Benchmarks"):
+        st.write(f"**Current Avg Processing Time:** {perf_comparison['current_avg_time_ms']}ms")
+        st.write(f"**Benchmark Avg Time:** {perf_comparison['avg_processing_time_benchmark_ms']}ms")
+        st.write(f"**Time Efficiency:** {perf_comparison['time_efficiency_percent']}%")
+    
+    st.markdown("---")
     st.markdown("### 🔍 Analysis Results")
 
     # 🔹 Display
@@ -133,8 +204,8 @@ if st.button("Analyze"):
             st.markdown('<div class="section-title">🧠 AI Analysis</div>', unsafe_allow_html=True)
 
             with st.expander("💬 Detailed Explanation"):
-             if explanation and explanation.strip():
-               st.markdown(explanation)
-             else:
-               st.warning("⚠️ No AI explanation generated. Check LLM connection.")
+                if explanation and explanation.strip():
+                    st.markdown(explanation)
+                else:
+                    st.warning("⚠️ No AI explanation generated. Check LLM connection.")
             st.markdown("---")
